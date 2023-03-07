@@ -1,0 +1,12 @@
+<theme>
+   <variables>
+      <systemColor>aaaaaa</systemColor>
+      <systemMetadata>Folder</systemMetadata>
+      <systemDescription>View and play games you have added to your custom collections.</systemDescription>
+   </variables>
+   <view name="system">
+      <text name="system-name">
+         <letterCase>capitalize</letterCase>
+      </text>
+   </view>
+</theme>

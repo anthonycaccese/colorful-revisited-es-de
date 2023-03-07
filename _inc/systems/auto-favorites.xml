@@ -1,0 +1,12 @@
+<theme>
+   <variables>
+      <systemColor>aaaaaa</systemColor>
+      <systemMetadata>Folder</systemMetadata>
+      <systemDescription>View and play your favorite games across the entire library.</systemDescription>
+   </variables>
+   <view name="system">
+      <text name="system-name">
+         <letterCase>capitalize</letterCase>
+      </text>
+   </view>
+</theme>

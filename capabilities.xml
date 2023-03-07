@@ -1,0 +1,28 @@
+<themeCapabilities>
+   
+   <themeName>Colorful (Revisited)</themeName>
+
+   <transitions name="transitions">
+      <label>transitions</label>
+      <selectable>false</selectable>
+      <systemToSystem>instant</systemToSystem>
+      <systemToGamelist>slide</systemToGamelist>
+      <gamelistToGamelist>slide</gamelistToGamelist>
+      <gamelistToSystem>slide</gamelistToSystem>
+      <startupToSystem>slide</startupToSystem>
+      <startupToGamelist>slide</startupToGamelist>
+   </transitions>
+   <suppressTransitionProfiles>
+      <entry>builtin-instant</entry>
+      <entry>builtin-slide</entry>
+      <entry>builtin-fade</entry>
+   </suppressTransitionProfiles>
+
+   <!--<colorScheme name="light">
+      <label>Light</label>
+   </colorScheme>
+   <colorScheme name="dark">
+      <label>Dark</label>
+   </colorScheme>-->
+
+</themeCapabilities>

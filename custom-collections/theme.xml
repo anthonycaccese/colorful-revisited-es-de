@@ -1,0 +1,9 @@
+<theme>
+   <include>./../theme.xml</include>
+   <view name="gamelist">
+      <text name="custom-collection-name">
+         <pos>0.136 0.092592592592593</pos><!-- 300 100 -->
+         <metadata>systemFullname</metadata>
+      </text>
+   </view>
+</theme>

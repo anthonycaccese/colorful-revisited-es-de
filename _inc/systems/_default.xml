@@ -1,0 +1,7 @@
+<theme>
+   <variables>
+      <systemColor>aaaaaa</systemColor>
+      <systemMetadata>System</systemMetadata>
+      <systemDescription>View and play your ${system.fullName} games</systemDescription>
+   </variables>
+</theme>

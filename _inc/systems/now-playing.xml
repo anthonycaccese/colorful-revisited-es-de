@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemColor>aaaaaa</systemColor>
+      <systemMetadata>Folder</systemMetadata>
+      <systemDescription>Quickly access and complete the games on your backlog.</systemDescription>
+   </variables>
+   <view name="system">
+      <text name="system-name">
+         <letterCase>capitalize</letterCase>
+         <text>Now Playing</text>
+      </text>
+   </view>
+</theme>
