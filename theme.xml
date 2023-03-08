@@ -10,6 +10,7 @@ license:       creative commons CC-BY-NC-SA
 
     <include>./_inc/systems/_default.xml</include>
     <include>./_inc/systems/${system.theme}.xml</include>
+    <include>./_inc/systems/${system.theme}-local.xml</include>
 
    <variables>
       <spacerImage>./_inc/images/space.png</spacerImage>
