@@ -2,6 +2,9 @@
    
    <themeName>Colorful (Revisited)</themeName>
 
+   <aspectRatio>16:9</aspectRatio>
+   <aspectRatio>16:10</aspectRatio>
+
    <transitions name="transitions">
       <label>transitions</label>
       <selectable>false</selectable>
@@ -9,8 +12,8 @@
       <systemToGamelist>slide</systemToGamelist>
       <gamelistToGamelist>slide</gamelistToGamelist>
       <gamelistToSystem>slide</gamelistToSystem>
-      <startupToSystem>slide</startupToSystem>
-      <startupToGamelist>slide</startupToGamelist>
+      <startupToSystem>fade</startupToSystem>
+      <startupToGamelist>fade</startupToGamelist>
    </transitions>
    <suppressTransitionProfiles>
       <entry>builtin-instant</entry>
@@ -18,11 +21,11 @@
       <entry>builtin-fade</entry>
    </suppressTransitionProfiles>
 
-   <!--<colorScheme name="light">
+   <colorScheme name="light">
       <label>Light</label>
    </colorScheme>
    <colorScheme name="dark">
       <label>Dark</label>
-   </colorScheme>-->
+   </colorScheme>
 
 </themeCapabilities>
