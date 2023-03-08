@@ -1,0 +1,10 @@
+<theme>
+   <variables>
+      <systemLabel>Folder</systemLabel>
+   </variables>
+   <view name="system">
+      <text name="system-name">
+         <letterCase>capitalize</letterCase>
+      </text>
+   </view>
+</theme>

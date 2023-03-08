@@ -7,6 +7,5 @@
       <systemReleaseDateFormated>May 1, 1986</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>2f7bc7</systemColor>
-      <systemMetadata>${systemReleaseYear}</systemMetadata>
    </variables>
 </theme>

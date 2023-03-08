@@ -8,9 +8,8 @@ license:       creative commons CC-BY-NC-SA
 
 <theme>
 
-    <include>./_inc/systems/_default.xml</include>
-    <include>./_inc/systems/${system.theme}.xml</include>
-    <include>./_inc/systems/${system.theme}-local.xml</include>
+    <include>./_inc/systems/_global/_default.xml</include>
+    <include>./_inc/systems/_global/${system.theme}.xml</include>
 
    <variables>
       <spacerImage>./_inc/images/space.png</spacerImage>
@@ -66,17 +65,17 @@ license:       creative commons CC-BY-NC-SA
          <type>vertical</type>
          <itemScale>1</itemScale>
          <maxItemCount>1</maxItemCount>
-         <staticImage>./_inc/systems/${system.theme}.png</staticImage>
-         <defaultImage>./_inc/systems/_default.png</defaultImage>
+         <staticImage>./_inc/systems/images/${system.theme}.png</staticImage>
+         <defaultImage>./_inc/systems/images/_default.png</defaultImage>
          <fastScrolling>true</fastScrolling>
          <color>00000000</color>
       </carousel>
-      <text name="system-metadata">
+      <text name="system-label">
          <fontPath>${fontLight}</fontPath>
          <fontSize>0.040740740740741</fontSize><!-- 44 -->
          <lineSpacing>1</lineSpacing>
          <color>7E7E7E</color>
-         <text>${systemMetadata}</text>
+         <text></text>
       </text>
       <text name="system-name">
          <text>${system.fullName}</text>
@@ -341,7 +340,7 @@ license:       creative commons CC-BY-NC-SA
             <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
             <itemSize>0.616666666666667 0.959259259259259</itemSize>
          </carousel>
-         <text name="system-metadata">
+         <text name="system-label">
             <pos>0.052083333333333 0.196296296296296</pos><!-- 100 212 -->
          </text>
          <text name="system-name">
@@ -465,7 +464,7 @@ license:       creative commons CC-BY-NC-SA
             <size>0.574074074074074 0.959259259259259</size><!-- 992 1036 -->
             <itemSize>0.574074074074074 0.959259259259259</itemSize><!-- 992 1036 -->
          </carousel>
-         <text name="system-metadata">
+         <text name="system-label">
             <pos>0.05787037037037 0.196296296296296</pos><!-- 100 212 -->
          </text>
          <text name="system-name">
