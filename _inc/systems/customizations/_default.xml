@@ -1,5 +1,5 @@
 <theme>
    <variables>
-      <systemLabel>System</systemLabel>
+      <systemLabel>${systemHardwareType}</systemLabel>
    </variables>
 </theme>

@@ -8,8 +8,10 @@ license:       creative commons CC-BY-NC-SA
 
 <theme>
 
-    <include>./_inc/systems/_global/_default.xml</include>
-    <include>./_inc/systems/_global/${system.theme}.xml</include>
+   <include>./_inc/systems/_global/_default.xml</include>
+   <include>./_inc/systems/customizations/_default.xml</include>
+   <include>./_inc/systems/_global/${system.theme}.xml</include>
+   <include>./_inc/systems/customizations/${system.theme}.xml</include>
 
    <variables>
       <spacerImage>./_inc/images/space.png</spacerImage>
@@ -75,7 +77,7 @@ license:       creative commons CC-BY-NC-SA
          <fontSize>0.040740740740741</fontSize><!-- 44 -->
          <lineSpacing>1</lineSpacing>
          <color>7E7E7E</color>
-         <text></text>
+         <text>${systemLabel}</text>
       </text>
       <text name="system-name">
          <text>${system.fullName}</text>
