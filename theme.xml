@@ -8,10 +8,10 @@ license:       creative commons CC-BY-NC-SA
 
 <theme>
 
-   <include>./_inc/systems/_global/_default.xml</include>
-   <include>./_inc/systems/customizations/_default.xml</include>
-   <include>./_inc/systems/_global/${system.theme}.xml</include>
-   <include>./_inc/systems/customizations/${system.theme}.xml</include>
+   <include>./_inc/systems/metadata-global/_default.xml</include>
+   <include>./_inc/systems/metadata-custom/_default.xml</include>
+   <include>./_inc/systems/metadata-global/${system.theme}.xml</include>
+   <include>./_inc/systems/metadata-custom/${system.theme}.xml</include>
 
    <variables>
       <spacerImage>./_inc/images/space.png</spacerImage>
