@@ -1,7 +1,7 @@
 # Colorful (Revisited) (ES-DE Version)
-This is port of the Colorful theme by [faeran](https://forums.launchbox-app.com/profile/76940-faeran/) for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x
+This is port of the Colorful theme by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/profile/76940-faeran/) for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x
 
-**All artwork and layouts were designed and created by faeran.  I simply made changes to the XML to make the theme compatible with ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
+**All artwork and layouts were designed and created by viking & faeran.  I simply made changes to the XML to make the theme compatible with ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
 ## Changes Made
 - Redesigned the design/layout of system and gamelist views
@@ -16,7 +16,7 @@ This is port of the Colorful theme by [faeran](https://forums.launchbox-app.com/
 | <img alt="Screenshot 2023-03-07 at 12 24 11 AM" src="https://user-images.githubusercontent.com/1454947/223330523-c3cff969-f779-435f-820a-437eefe9ad4a.png"> | <img alt="Screenshot 2023-03-07 at 12 24 04 AM" src="https://user-images.githubusercontent.com/1454947/223330547-e191b8e8-6feb-4ff9-a097-b3010db2e3a1.png"> |
 
 ## **Credit**
-All artwork and layouts were designed and created by [faeran](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)
+All artwork and layouts were designed and created by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
