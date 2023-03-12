@@ -6,6 +6,7 @@ This is port of the Colorful theme (originally by [viking](https://forums.launch
 ## Changes Made
 - Translated and rewrote all Launchbox specific aspects to make the theme compatible with ES-DE v2.x
 - Updated system image names to match the standard used by ES-DE
+- Created images & color schemes for additional systems supported by ES-DE
 - Added support for ES-DE capabilities such as badges
 
 ## **Preview**
