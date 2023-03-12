@@ -1,13 +1,12 @@
 # Colorful (Revisited) (ES-DE Version)
-This is port of the Colorful theme by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/profile/76940-faeran/) for the version of EmulationStation used in [ES-DE](https://es-de.org/) v2.x
+This is port of the Colorful theme (originally by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/profile/76940-faeran/)) from Launchbox to [ES-DE](https://es-de.org/) v2.x
 
-**All artwork and layouts were designed and created by viking & faeran.  I simply made changes to the XML to make the theme compatible with ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
+**All artwork and layouts were designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
 ## Changes Made
-- Redesigned the design/layout of system and gamelist views
 - Removed all Launchbox specific elements to make the theme compatible with ES-DE v2.x
 - Updated system image names to match the standard used by ES-DE
-- Add support for ES-DE capabilities such as badges
+- Added support for ES-DE capabilities such as badges
 
 ## **Preview**
 
