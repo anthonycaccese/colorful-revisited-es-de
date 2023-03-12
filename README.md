@@ -4,7 +4,7 @@ This is port of the Colorful theme (originally by [viking](https://forums.launch
 **All artwork and layouts were designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
 ## Changes Made
-- Rewrote all Launchbox specific elements to make the theme compatible with ES-DE v2.x
+- Translated and rewrote all Launchbox specific aspects to make the theme compatible with ES-DE v2.x
 - Updated system image names to match the standard used by ES-DE
 - Added support for ES-DE capabilities such as badges
 
