@@ -1,18 +1,30 @@
 <theme>
    <include>./../theme.xml</include>
+   <view name="system">
+      <text name="system-label">
+         <text>${systemHardwareType}</text>
+      </text>
+      <text name="system-name">
+         <letterCase>capitalize</letterCase>
+      </text>
+   </view>
    <view name="gamelist">
       <text name="custom-collection-name">
          <metadata>systemFullname</metadata>
       </text>
    </view>
    <aspectRatio name="16:9">
-      <text name="custom-collection-name">
-         <pos>0.135416666666667 0.092592592592593</pos><!-- 260 100 -->
-      </text>
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <pos>0.135416666666667 0.092592592592593</pos><!-- 260 100 -->
+         </text>
+      </view>
    </aspectRatio>
    <aspectRatio name="16:10">
-      <text name="custom-collection-name">
-         <pos>0.150462962962963 0.092592592592593</pos><!-- 260 100 -->
-      </text>
+      <view name="gamelist">
+         <text name="custom-collection-name">
+            <pos>0.150462962962963 0.092592592592593</pos><!-- 260 100 -->
+         </text>
+      </view>
    </aspectRatio>
 </theme>

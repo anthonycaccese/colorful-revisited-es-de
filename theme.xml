@@ -9,9 +9,7 @@ license:       creative commons CC-BY-NC-SA
 <theme>
 
    <include>./_inc/systems/metadata-global/_default.xml</include>
-   <include>./_inc/systems/metadata-custom/_default.xml</include>
    <include>./_inc/systems/metadata-global/${system.theme}.xml</include>
-   <include>./_inc/systems/metadata-custom/${system.theme}.xml</include>
 
    <variables>
       <spacerImage>./_inc/images/space.png</spacerImage>
@@ -77,7 +75,7 @@ license:       creative commons CC-BY-NC-SA
          <fontSize>0.040740740740741</fontSize><!-- 44 -->
          <lineSpacing>1</lineSpacing>
          <color>7E7E7E</color>
-         <text>${systemLabel}</text>
+         <text>${systemReleaseYear}</text>
       </text>
       <text name="system-name">
          <text>${system.fullName}</text>
@@ -395,7 +393,7 @@ license:       creative commons CC-BY-NC-SA
             <cropSize>0.616666666666667 0.959259259259259</cropSize><!-- 1184 1036 -->
          </video>
          <badges name="badges">
-            <pos>0.052083333333333 0.138888888888889</pos><!-- 100 150 -->
+            <pos>0.052083333333333 0.142592592592593</pos><!-- 100 154 -->
             <size>0.26875 0.018518518518519</size><!-- 516 20 -->
          </badges>
          <text name="game-genre">
@@ -519,7 +517,7 @@ license:       creative commons CC-BY-NC-SA
             <cropSize>0.574074074074074 0.959259259259259</cropSize><!-- 992 1036 -->
          </video>
          <badges name="badges">
-            <pos>0.05787037037037 0.138888888888889</pos><!-- 100 150 -->
+            <pos>0.05787037037037 0.142592592592593</pos><!-- 100 154 -->
             <size>0.298611111111111 0.018518518518519</size><!-- 516 20 -->
          </badges>
          <text name="game-genre">

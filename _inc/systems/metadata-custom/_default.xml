@@ -1,5 +1,0 @@
-<theme>
-   <variables>
-      <systemLabel>${systemHardwareType}</systemLabel>
-   </variables>
-</theme>
