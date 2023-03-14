@@ -17,7 +17,13 @@ This is port of the Colorful theme (originally by [viking](https://forums.launch
 | <img alt="Screenshot 2023-03-07 at 12 24 11 AM" src="https://user-images.githubusercontent.com/1454947/223330523-c3cff969-f779-435f-820a-437eefe9ad4a.png"> | <img alt="Screenshot 2023-03-07 at 12 24 04 AM" src="https://user-images.githubusercontent.com/1454947/223330547-e191b8e8-6feb-4ff9-a097-b3010db2e3a1.png"> |
 
 ## **Credit**
-All artwork and layouts were designed and created by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)
+- All layouts were designed and created by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)
+- Most system artwork originally created by [viking](https://forums.launchbox-app.com/profile/70421-viking/)
+- Some system artwork was sourced from [ckau-book](https://github.com/CkauNui/ckau-book/tree/master) (specifically systems that are not covered by the original colorful set)
+- OpenBOR sprites originally created by [DOA687](https://www.deviantart.com/doa687)
+- M.U.G.E.N. sprites originally created by [mpadillathespriter](https://www.deviantart.com/mpadillathespriter)
+- EasyRPG artwork originally by [SeraphCircle](https://twitter.com/SeraphCircle)
+- Doom artwork originally by [azakachi-rd-17](https://www.deviantart.com/azakachi-rd-17)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
