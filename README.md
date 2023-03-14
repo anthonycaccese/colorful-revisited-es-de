@@ -1,11 +1,12 @@
 # Colorful (Revisited) for ES-DE
 This is port of the Colorful theme (originally by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/profile/76940-faeran/)) from Launchbox to [ES-DE](https://es-de.org/) v2.x
 
-**All artwork and layouts were designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE. The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
+**Most of the artwork and layouts are designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE and then added artwork for systems that weren't originally part of that theme (see "Credits" below for more details). The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
 ## Changes Made
 - Translated and rewrote all Launchbox specific aspects to make the theme compatible with ES-DE v2.x
 - Updated system image names to match the standard used by ES-DE
+- Added systems that are supported by ES-DE but not the original launchbox set
 - Created images & color schemes for additional systems supported by ES-DE
 - Added support for ES-DE capabilities such as badges
 - Embedded the ES-DE [system-metadata](https://gitlab.com/es-de/themes/system-metadata) repository to power system description, release year and color details
