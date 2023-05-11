@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>O Family Computer Disk System, às vezes abreviado como Famicom Disk System ou simplesmente Disk System, e abreviado como FDS ou FCD, é um periférico para o console de jogos eletrônicos doméstico da Nintendo, o Family Computer, lançado no Japão em 21 de fevereiro de 1986. Ele usa disquetes proprietários chamados "Disk Cards" para armazenamento de dados. Durante toda a sua produção, de 1986 a 2003, 4,44 milhões de unidades foram vendidas. O dispositivo é conectado ao deck do Famicom através de um cartucho especial conhecido como Adaptador de RAM, que é plugado na porta do cartucho do sistema, e o cabo deste cartucho é conectado à unidade de disco. O adaptador de RAM contém 32 kilobytes (KB) de RAM para armazenamento temporário de programas, 8 KB de RAM para armazenamento de dados de mosaicos e sprites, e um ASIC conhecido como 2C33. O ASIC age como um controlador de disco para a unidade de disquete, e também inclui hardware adicional de som com um sintetizador de pesquisa de tabela de onda de ciclo único. Finalmente, incorporado ao 2C33, há uma BIOS ROM de 8 KB. Os Disk Cards usados são de dupla face, com uma capacidade total de 112 KB por disco. Muitos jogos ocupam ambos os lados de um disco, exigindo que o usuário troque de lado em algum momento durante o jogo. Alguns jogos usam dois discos completos, totalizando quatro lados. O Disk System é capaz de funcionar com seis pilhas C ou o adaptador AC fornecido. As pilhas geralmente duram cinco meses com jogo diário. A opção de bateria é devido à probabilidade de um conjunto padrão de plugs AC já estar ocupado por um Famicom e uma televisão.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>1986-11</systemReleaseDate>
+      <systemReleaseDateFormated>21 de Fevereiro de 1986</systemReleaseDateFormated>
+      <systemHardwareType>Acessório</systemHardwareType>
+      <systemColor>ba3141</systemColor>
+   </variables>
+</theme>

@@ -1,0 +1,3 @@
+1. Open language folder you want to set (ex.: pt-BR)
+2. Copy all files in the language folder's root to theme's root (Overwrite all required)
+3. Enjoy! ^^

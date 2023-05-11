@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>O PlayStation 3 (PS3) é um console de videogame doméstico desenvolvido pela Sony Computer Entertainment. É o sucessor do PlayStation 2 e faz parte da linha de consoles Playstation. Foi lançado pela primeira vez em 11 de novembro de 2006 no Japão, 17 de novembro de 2006 na América do Norte e 23 de março de 2007 na Europa e Austrália. O PlayStation 3 competiu principalmente contra o Xbox 360 da Microsoft e o Wii da Nintendo como parte da sétima geração de consoles de videogame.
+
+O console foi oficialmente anunciado na E3 2005 e lançado no final de 2006. Foi o primeiro console a usar o disco Blu-ray como seu meio principal de armazenamento. O console foi o primeiro PlayStation a integrar serviços de jogos sociais, incluindo a PlayStation Network, além de ser o primeiro a ser controlável a partir de um console portátil, através da sua conectividade remota com o PlayStation Portable e o PlayStation Vita. Em setembro de 2009, foi lançado o modelo Slim do PlayStation 3. Ele não possuía mais a capacidade de executar jogos do PS2. Era mais leve e mais fino que a versão original e apresentava um logotipo e design de marketing redesenhados, bem como uma pequena mudança no software de inicialização. Uma variação Super Slim foi então lançada no final de 2012, refinando e redesenhando ainda mais o console.</systemDescription>
+      <systemManufacturer>Sony</systemManufacturer>
+      <systemReleaseYear>2006</systemReleaseYear>
+      <systemReleaseDate>2006-11-11</systemReleaseDate>
+      <systemReleaseDateFormated>11 de Novembro de 2006</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>367cda</systemColor>
+   </variables>
+</theme>

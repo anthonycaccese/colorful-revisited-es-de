@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>O Game Boy Advance (abreviado como GBA) é um console de videogame portátil de 32 bits desenvolvido, fabricado e comercializado pela Nintendo como sucessor do Game Boy Color. Foi lançado no Japão em 21 de março de 2001, na América do Norte em 11 de junho de 2001, na Austrália e Europa em 22 de junho de 2001 e na China continental em 8 de junho de 2004 (iQue Player). Os concorrentes da Nintendo no mercado portátil na época eram o Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac e o N-Gage. Apesar dos melhores esforços dos concorrentes, a Nintendo manteve a maioria do mercado com o Game Boy Advance. Até 30 de junho de 2010, a série Game Boy Advance vendeu 81,51 milhões de unidades em todo o mundo. Seu sucessor, o Nintendo DS, foi lançado em novembro de 2004 e também é compatível com o software do Game Boy Advance.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-06-11</systemReleaseDate>
+      <systemReleaseDateFormated>11 de Junho de 2001</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
+      <systemColor>4D74D8</systemColor>
+   </variables>
+</theme>

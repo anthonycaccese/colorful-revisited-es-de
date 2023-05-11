@@ -1,0 +1,614 @@
+<!--
+theme name:    Colorful (Revisited) (ES-DE Edition)
+designed by:   faeran (https://forums.launchbox-app.com/profile/76940-faeran/)
+ported from:   https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme/
+ported by:     anthonycaccese (change log can be found at https://github.com/anthonycaccese/colorful-revisited-es-de/blob/master/readme.md)
+license:       creative commons CC-BY-NC-SA
+-->
+
+<theme>
+
+   <include>./_inc/systems/metadata-global/_default.xml</include>
+   <include>./_inc/systems/metadata-global/${system.theme}.xml</include>
+
+   <variables>
+      <spacerImage>./_inc/images/space.png</spacerImage>
+      <fontLight>./_inc/fonts/Gilroy-Light.ttf</fontLight>
+      <fontBold>./_inc/fonts/Gilroy-Bold.ttf</fontBold>
+   </variables>
+
+   <colorScheme name="light">
+      <variables>
+         <backgroundColor>ffffff</backgroundColor>
+         <backgroundSystemStats>./_inc/images/background-system-stats-light.svg</backgroundSystemStats>
+         <backgroundGameStats>./_inc/images/background-game-stats-light.svg</backgroundGameStats>
+         <badgeIconColor>b1b1b1</badgeIconColor>
+         <nameColor>010000</nameColor>
+         <descriptionColor>010000</descriptionColor>
+         <metadataLabelColor>7e7e7e</metadataLabelColor>
+         <metadataColor>010000</metadataColor>
+      </variables>
+   </colorScheme>
+   <colorScheme name="dark">
+      <variables>
+         <backgroundColor>313536</backgroundColor>
+         <backgroundSystemStats>./_inc/images/background-system-stats-dark.svg</backgroundSystemStats>
+         <backgroundGameStats>./_inc/images/background-game-stats-dark.svg</backgroundGameStats>
+         <badgeIconColor>b1b1b1</badgeIconColor>
+         <nameColor>ffffff</nameColor>
+         <descriptionColor>ffffff</descriptionColor>
+         <metadataLabelColor>7e7e7e</metadataLabelColor>
+         <metadataColor>ffffff</metadataColor>
+      </variables>
+   </colorScheme>
+
+   <view name="system,gamelist">
+      <image name="background">
+         <origin>0 0</origin>
+         <pos>0 0</pos>
+         <size>1 1</size>
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>${backgroundColor}</color>
+         <zIndex>0</zIndex>
+      </image>
+      <helpsystem name="help">
+         <originDimmed>0.5 0</originDimmed>
+         <posDimmed>0.5 0.94</posDimmed>
+         <textColorDimmed>cccccc</textColorDimmed>
+         <iconColorDimmed>cccccc</iconColorDimmed>
+         <fontSizeDimmed>0.026</fontSizeDimmed>
+         <opacityDimmed>1.0</opacityDimmed>
+      </helpsystem>
+   </view>
+
+   <view name="system">
+      <image name="system-carousel-background">
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <zIndex>0</zIndex>
+         <color>${systemColor}</color>
+      </image>
+      <carousel name="system-carousel">
+         <type>vertical</type>
+         <itemScale>1</itemScale>
+         <maxItemCount>1</maxItemCount>
+         <staticImage>./_inc/systems/images/${system.theme}.png</staticImage>
+         <defaultImage>./_inc/systems/images/_default.png</defaultImage>
+         <fastScrolling>true</fastScrolling>
+         <color>00000000</color>
+      </carousel>
+      <text name="system-label">
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.040740740740741</fontSize><!-- 44 -->
+         <lineSpacing>1</lineSpacing>
+         <color>7E7E7E</color>
+         <text>${systemReleaseYear}</text>
+      </text>
+      <text name="system-name">
+         <text>${system.fullName}</text>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.062962962962963</fontSize><!-- 66 -->
+         <lineSpacing>1</lineSpacing>
+         <color>${nameColor}</color>
+      </text>
+      <text name="system-description">
+         <text>${systemDescription}</text>
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+         <lineSpacing>1.25</lineSpacing>
+         <verticalAlignment>bottom</verticalAlignment>
+         <color>${descriptionColor}</color>
+         <container>true</container>
+      </text>
+      <image name="system-stats-border">
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>${systemColor}</color>
+      </image>
+      <image name="system-stats-background">
+         <path>${backgroundSystemStats}</path>
+      </image>
+      <text name="system-game-count">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.033333333333333</fontSize><!-- 36 -->
+         <lineSpacing>1</lineSpacing>
+         <systemdata>gamecountGamesNoText</systemdata>
+         <color>${metadataColor}</color>
+      </text>
+      <text name="system-game-count-label">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <text>Jogos</text>
+         <color>${metadataLabelColor}</color>
+      </text>
+      <text name="system-favorites-count">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.033333333333333</fontSize><!-- 36 -->
+         <lineSpacing>1</lineSpacing>
+         <systemdata>gamecountFavoritesNoText</systemdata>
+         <color>${metadataColor}</color>
+      </text>
+      <text name="system-favorites-count-label">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <text>Favoritos</text>
+         <color>${metadataLabelColor}</color>
+      </text>
+      <helpsystem name="help">
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <letterCase>capitalize</letterCase>
+         <iconColor>a1a1a1</iconColor>
+         <textColor>818181</textColor>
+      </helpsystem>
+   </view>
+
+   <view name="gamelist">
+      <carousel name="game-carousel">
+         <origin>0 0.5</origin>
+         <type>vertical</type>
+         <itemScale>1</itemScale>
+         <itemHorizontalAlignment>left</itemHorizontalAlignment>
+         <maxItemCount>1</maxItemCount>
+         <imageType>cover</imageType>
+         <defaultImage>./_inc/images/folder.png</defaultImage>
+         <fastScrolling>true</fastScrolling>
+         <color>00000000</color>
+      </carousel>
+      <text name="system-name,auto-collection-name,custom-collection-name">
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+         <lineSpacing>1</lineSpacing>
+         <color>818181</color>
+      </text>
+      <text name="system-name">
+         <text>${system.fullName.noCollections}</text>
+      </text>
+      <text name="auto-collection-name">
+         <text>${system.fullName.autoCollections}</text>
+         <letterCase>capitalize</letterCase>
+      </text>
+      <image name="game-art-background">
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <zIndex>0</zIndex>
+         <color>${systemColor}</color>
+         <zIndex>1</zIndex>
+      </image>
+      <video name="game-art">
+         <imageType>screenshot,titlescreen,fanart</imageType>
+         <delay>4</delay>
+         <zIndex>2</zIndex>
+      </video>
+      <badges name="badges">
+         <itemMargin>0.002 -1</itemMargin>
+         <lines>1</lines>
+         <itemsPerLine>8</itemsPerLine>
+         <slots>all</slots>
+         <customBadgeIcon badge="folder">./_inc/images/badge-folder.svg</customBadgeIcon>
+         <customBadgeIcon badge="broken">./_inc/images/badge-broken.svg</customBadgeIcon>
+         <customBadgeIcon badge="completed">./_inc/images/badge-completed.svg</customBadgeIcon>
+         <customBadgeIcon badge="favorite">./_inc/images/badge-favorite.svg</customBadgeIcon>
+         <customBadgeIcon badge="kidgame">./_inc/images/badge-kidgame.svg</customBadgeIcon>
+         <customBadgeIcon badge="collection">./_inc/images/badge-collection.svg</customBadgeIcon>
+         <customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
+         <customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
+         <badgeIconColor>${badgeIconColor}</badgeIconColor>
+         <controllerSize>0.8</controllerSize>
+         <folderLinkSize>0.8</folderLinkSize>
+      </badges>
+      <text name="game-genre">
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+         <lineSpacing>1</lineSpacing>
+         <color>${systemColor}</color>
+         <letterCase>capitalize</letterCase>
+         <metadata>genre</metadata>
+         <defaultValue>:space:</defaultValue>
+      </text>
+      <text name="game-name">
+         <verticalAlignment>top</verticalAlignment>
+         <metadata>name</metadata>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.048148148148148</fontSize><!-- 52 -->
+         <lineSpacing>1</lineSpacing>
+         <color>${nameColor}</color>
+      </text>
+      <text name="game-description">
+         <metadata>description</metadata>
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.025925925925926</fontSize><!-- 28 -->
+         <lineSpacing>1.25</lineSpacing>
+         <verticalAlignment>bottom</verticalAlignment>
+         <container>true</container>
+         <containerStartDelay>6</containerStartDelay>
+         <color>${descriptionColor}</color>
+      </text>
+      <image name="game-stats-border">
+         <path>${spacerImage}</path>
+         <tile>true</tile>
+         <color>${systemColor}</color>
+         <metadataElement>true</metadataElement>
+      </image>
+      <image name="game-stats-background">
+         <path>${backgroundGameStats}</path>
+         <metadataElement>true</metadataElement>
+      </image>
+      <text name="game-rating-label,game-play-count-label,game-release-date-label,game-players-label,game-developer-label,game-publisher-label">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontLight}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <color>${metadataLabelColor}</color>
+         <metadataElement>true</metadataElement>
+      </text>
+      <text name="game-rating-label">
+         <text>Avaliação</text>
+      </text>
+      <rating name="rating">
+         <origin>0.5 0</origin>
+         <size>0 0.018518518518519</size><!-- x 20 -->
+         <filledPath>./_inc/images/icon-star-filled.svg</filledPath>
+         <unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
+         <overlay>false</overlay>
+         <color>${systemColor}</color>
+      </rating>
+      <text name="game-play-count-label">
+         <text>Quant. Jogadas</text>
+      </text>
+      <text name="game-play-count">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <metadata>playcount</metadata>
+         <color>${metadataColor}</color>
+      </text>
+      <text name="game-release-date-label">
+         <text>Lançamento</text>
+      </text>
+      <datetime name="game-release-date">
+         <origin>0.5 0</origin>
+         <metadata>releasedate</metadata>
+         <defaultValue>Not Set</defaultValue>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <format>%Y</format>
+         <defaultValue>--</defaultValue>
+         <color>${metadataColor}</color>
+      </datetime>
+      <text name="game-players-label">
+         <text>Quant. Jogadores</text>
+      </text>
+      <text name="game-players">
+         <origin>0.5 0</origin>
+         <size>0 0</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <lineSpacing>1</lineSpacing>
+         <metadata>players</metadata>
+         <defaultValue>--</defaultValue>
+         <color>${metadataColor}</color>
+      </text>
+      <text name="game-developer-label">
+         <text>Desenvolvedora</text>
+      </text>
+      <text name="game-developer">
+         <origin>0.5 0</origin>
+         <size>0.09375 0.02037037037037</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <horizontalAlignment>center</horizontalAlignment>
+         <lineSpacing>1</lineSpacing>
+         <metadata>developer</metadata>
+         <defaultValue>--</defaultValue>
+         <color>${metadataColor}</color>
+      </text>
+      <text name="game-publisher-label">
+         <text>Publicadora</text>
+      </text>
+      <text name="game-publisher">
+         <origin>0.5 0</origin>
+         <size>0.09375 0.02037037037037</size>
+         <fontPath>${fontBold}</fontPath>
+         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <horizontalAlignment>center</horizontalAlignment>
+         <lineSpacing>1</lineSpacing>
+         <metadata>publisher</metadata>
+         <defaultValue>--</defaultValue>
+         <color>${metadataColor}</color>
+      </text>
+      <helpsystem name="help">
+         <origin>0 0</origin>
+         <pos>1 1</pos>
+      </helpsystem>
+   </view>
+
+   <aspectRatio name="16:9">
+      <view name="system">
+         <image name="system-carousel-background">
+            <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+         </image>
+         <carousel name="system-carousel">
+            <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+            <itemSize>0.616666666666667 0.959259259259259</itemSize>
+         </carousel>
+         <text name="system-label">
+            <pos>0.052083333333333 0.196296296296296</pos><!-- 100 212 -->
+         </text>
+         <text name="system-name">
+            <pos>0.052083333333333 0.255555555555556</pos><!-- 100 276 -->
+            <size>0.26875 0</size><!-- 516 y -->
+         </text>
+         <text name="system-description">
+            <pos>0.052083333333333 0.481481481481481</pos><!-- 100 520 -->
+            <size>0.26875 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <image name="system-stats-border">
+            <pos>0.052083333333333 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.003125 0.161111111111111</size><!-- 6 174 -->
+         </image>
+         <image name="system-stats-background">
+            <pos>0.052083333333333 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.26875 0.161111111111111</size><!-- 516 174 -->
+         </image>
+         <text name="system-game-count">
+            <pos>0.120833333333333 0.768518518518519</pos><!-- 232 830 -->
+         </text>
+         <text name="system-game-count-label">
+            <pos>0.120833333333333 0.824074074074074</pos><!-- 232 890 -->
+         </text>
+         <text name="system-favorites-count">
+            <pos>0.2546875 0.768518518518519</pos><!-- 486 830 -->
+         </text>
+         <text name="system-favorites-count-label">
+            <pos>0.2546875 0.824074074074074</pos><!-- 486 890 -->
+         </text>
+         <helpsystem name="help">
+            <pos>0.052083333333333 0.916666666666667</pos><!-- 100 990 -->
+         </helpsystem>
+      </view>
+      <view name="gamelist">
+         <carousel name="game-carousel">
+            <pos>0.360416666666667 0.5</pos><!-- 692 50% -->
+            <size>0.3 0.959259259259259</size><!-- 576 1036 -->
+            <itemSize>0.3 0.5</itemSize><!-- 576 50% -->
+         </carousel>
+         <text name="system-name,auto-collection-name">
+            <pos>0.052083333333333 0.092592592592593</pos><!-- 100 100 -->
+         </text>
+         <image name="game-art-background">
+            <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+         </image>
+         <video name="game-art">
+            <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <cropSize>0.616666666666667 0.959259259259259</cropSize><!-- 1184 1036 -->
+         </video>
+         <badges name="badges">
+            <pos>0.052083333333333 0.142592592592593</pos><!-- 100 154 -->
+            <size>0.26875 0.018518518518519</size><!-- 516 20 -->
+         </badges>
+         <text name="game-genre">
+            <pos>0.052083333333333 0.187037037037037</pos><!-- 100 202 -->
+         </text>
+         <text name="game-name">
+            <pos>0.052083333333333 0.227777777777778</pos><!-- 100 246 -->
+            <size>0.26875 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <text name="game-description">
+            <pos>0.052083333333333 0.425925925925926</pos><!-- 100 460 -->
+            <size>0.26875 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <image name="game-stats-border">
+            <pos>0.052083333333333 0.62962962962963</pos><!-- 100 680 -->
+            <size>0.003125 0.277777777777778</size><!-- 6 300 -->
+         </image>
+         <image name="game-stats-background">
+            <pos>0.052083333333333 0.62962962962963</pos><!-- 100 680 -->
+            <size>0.26875 0.277777777777778</size><!-- 516 300 -->
+         </image>
+         <text name="game-rating-label">
+            <pos>0.120833333333333 0.648148148148148</pos><!-- 232 700 -->
+         </text>
+         <rating name="rating">
+            <pos>0.120833333333333 0.685185185185185</pos><!-- 232 740 -->
+         </rating>
+         <text name="game-play-count-label">
+            <pos>0.2546875 0.648148148148148</pos><!-- 486 700 -->
+         </text>
+         <text name="game-play-count">
+            <pos>0.2546875 0.685185185185185</pos><!-- 486 740 -->
+         </text>
+         <text name="game-release-date-label">
+            <pos>0.120833333333333 0.740740740740741</pos><!-- 232 800 -->
+         </text>
+         <datetime name="game-release-date">
+            <pos>0.120833333333333 0.777777777777778</pos><!-- 232 840 -->
+         </datetime>
+         <text name="game-players-label">
+            <pos>0.2546875 0.740740740740741</pos><!-- 486 800 -->
+         </text>
+         <text name="game-players">
+            <pos>0.2546875 0.777777777777778</pos><!-- 486 840 -->
+         </text>
+         <text name="game-developer-label">
+            <pos>0.120833333333333 0.833333333333333</pos><!-- 232 900 -->
+         </text>
+         <text name="game-developer">
+            <pos>0.120833333333333 0.87037037037037</pos><!-- 232 940 -->
+         </text>
+         <text name="game-publisher-label">
+            <pos>0.2546875 0.833333333333333</pos><!-- 486 900 -->
+         </text>
+         <text name="game-publisher">
+            <pos>0.2546875 0.87037037037037</pos><!-- 486 940 -->
+         </text>
+      </view>
+   </aspectRatio>
+   <aspectRatio name="16:10">
+      <view name="system">
+         <image name="system-carousel-background">
+            <pos>0.413194444444444 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.574074074074074 0.959259259259259</size><!-- 992 1036 -->
+         </image>
+         <carousel name="system-carousel">
+            <pos>0.413194444444444 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.574074074074074 0.959259259259259</size><!-- 992 1036 -->
+            <itemSize>0.574074074074074 0.959259259259259</itemSize><!-- 992 1036 -->
+         </carousel>
+         <text name="system-label">
+            <pos>0.05787037037037 0.196296296296296</pos><!-- 100 212 -->
+         </text>
+         <text name="system-name">
+            <pos>0.05787037037037 0.255555555555556</pos><!-- 100 276 -->
+            <size>0.298611111111111 0</size><!-- 516 y -->
+         </text>
+         <text name="system-description">
+            <pos>0.05787037037037 0.481481481481481</pos><!-- 100 520 -->
+            <size>0.298611111111111 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <image name="system-stats-border">
+            <pos>0.05787037037037 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.003472222222222 0.161111111111111</size><!-- 6 174 -->
+         </image>
+         <image name="system-stats-background">
+            <pos>0.05787037037037 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.298611111111111 0.161111111111111</size><!-- 516 174 -->
+         </image>
+         <text name="system-game-count">
+            <pos>0.134259259259259 0.768518518518519</pos><!-- 232 830 -->
+         </text>
+         <text name="system-game-count-label">
+            <pos>0.134259259259259 0.824074074074074</pos><!-- 232 890 -->
+         </text>
+         <text name="system-favorites-count">
+            <pos>0.28125 0.768518518518519</pos><!-- 486 830 -->
+         </text>
+         <text name="system-favorites-count-label">
+            <pos>0.28125 0.824074074074074</pos><!-- 486 890 -->
+         </text>
+         <helpsystem name="help">
+            <pos>0.05787037037037 0.916666666666667</pos><!-- 100 990 -->
+         </helpsystem>
+      </view>
+      <view name="gamelist">
+         <carousel name="game-carousel">
+            <pos>0.400462962962963 0.5</pos><!-- 692 50% -->
+            <size>0.333333333333333 0.959259259259259</size><!-- 576 1036 -->
+            <itemSize>0.333333333333333 0.5</itemSize><!-- 576 50% -->
+         </carousel>
+         <text name="system-name,auto-collection-name">
+            <pos>0.05787037037037 0.092592592592593</pos><!-- 100 100 -->
+         </text>
+         <image name="game-art-background">
+            <pos>0.413194444444444 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.574074074074074 0.959259259259259</size><!-- 992 1036 -->
+         </image>
+         <video name="game-art">
+            <pos>0.413194444444444 0.02037037037037</pos><!-- 714 22 -->
+            <cropSize>0.574074074074074 0.959259259259259</cropSize><!-- 992 1036 -->
+         </video>
+         <badges name="badges">
+            <pos>0.05787037037037 0.142592592592593</pos><!-- 100 154 -->
+            <size>0.298611111111111 0.018518518518519</size><!-- 516 20 -->
+         </badges>
+         <text name="game-genre">
+            <pos>0.05787037037037 0.187037037037037</pos><!-- 100 202 -->
+         </text>
+         <text name="game-name">
+            <pos>0.05787037037037 0.227777777777778</pos><!-- 100 246 -->
+            <size>0.298611111111111 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <text name="game-description">
+            <pos>0.05787037037037 0.425925925925926</pos><!-- 100 460 -->
+            <size>0.298611111111111 0.17962962962963</size><!-- 516 194 -->
+         </text>
+         <image name="game-stats-border">
+            <pos>0.05787037037037 0.62962962962963</pos><!-- 100 680 -->
+            <size>0.003472222222222 0.277777777777778</size><!-- 6 300 -->
+         </image>
+         <image name="game-stats-background">
+            <pos>0.05787037037037 0.62962962962963</pos><!-- 100 680 -->
+            <size>0.298611111111111 0.277777777777778</size><!-- 516 300 -->
+         </image>
+         <text name="game-rating-label">
+            <pos>0.134259259259259 0.648148148148148</pos><!-- 232 700 -->
+         </text>
+         <rating name="rating">
+            <pos>0.134259259259259 0.685185185185185</pos><!-- 232 740 -->
+         </rating>
+         <text name="game-play-count-label">
+            <pos>0.28125 0.648148148148148</pos><!-- 486 700 -->
+         </text>
+         <text name="game-play-count">
+            <pos>0.28125 0.685185185185185</pos><!-- 486 740 -->
+         </text>
+         <text name="game-release-date-label">
+            <pos>0.134259259259259 0.740740740740741</pos><!-- 232 800 -->
+         </text>
+         <datetime name="game-release-date">
+            <pos>0.134259259259259 0.777777777777778</pos><!-- 232 840 -->
+         </datetime>
+         <text name="game-players-label">
+            <pos>0.28125 0.740740740740741</pos><!-- 486 800 -->
+         </text>
+         <text name="game-players">
+            <pos>0.28125 0.777777777777778</pos><!-- 486 840 -->
+         </text>
+         <text name="game-developer-label">
+            <pos>0.134259259259259 0.833333333333333</pos><!-- 232 900 -->
+         </text>
+         <text name="game-developer">
+            <pos>0.134259259259259 0.87037037037037</pos><!-- 232 940 -->
+         </text>
+         <text name="game-publisher-label">
+            <pos>0.28125 0.833333333333333</pos><!-- 486 900 -->
+         </text>
+         <text name="game-publisher">
+            <pos>0.28125 0.87037037037037</pos><!-- 486 940 -->
+         </text>
+      </view>
+   </aspectRatio>
+
+   <view name="all">
+      <sound name="systembrowse">
+         <path>./_inc/sounds/systembrowse.wav</path>
+      </sound>
+      <sound name="quicksysselect">
+         <path>./_inc/sounds/quicksysselect.wav</path>
+      </sound>
+      <sound name="select">
+         <path>./_inc/sounds/select.wav</path>
+      </sound>
+      <sound name="back">
+         <path>./_inc/sounds/back.wav</path>
+      </sound>
+      <sound name="scroll">
+         <path>./_inc/sounds/scroll.wav</path>
+      </sound>
+      <sound name="favorite">
+         <path>./_inc/sounds/favorite.wav</path>
+      </sound>
+      <sound name="launch">
+         <path>./_inc/sounds/launch.wav</path>
+      </sound>
+   </view>
+
+</theme>
