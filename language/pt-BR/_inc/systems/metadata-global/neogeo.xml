@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Advanced Entertainment System (AES), originally known just as the Neo Geo, is the first video game console in the family. The hardware features comparatively colorful 2D graphics. The hardware was in part designed by Alpha Denshi (later ADK). Initially, the home system was only available for rent to commercial establishments, such as hotel chains, bars and restaurants, and other venues. When customer response indicated that some gamers were willing to buy a US$650 console, SNK expanded sales and marketing into the home console market. The Neo Geo console was officially launched on 31 January 1990 in Osaka, Japan. The AES is identical to its arcade counterpart, the MVS, so arcade games released for the home market are nearly identical conversions.</systemDescription>
+      <systemDescription>O Advanced Entertainment System (AES), originalmente conhecido apenas como Neo Geo, é o primeiro console de videogame da família. O hardware apresenta gráficos 2D relativamente coloridos. O hardware foi em parte projetado pela Alpha Denshi (mais tarde ADK). Inicialmente, o sistema doméstico só estava disponível para aluguel em estabelecimentos comerciais, como cadeias de hotéis, bares e restaurantes e outros locais. Quando a resposta dos clientes indicou que alguns jogadores estavam dispostos a comprar um console de US$650, a SNK expandiu as vendas e o marketing para o mercado de consoles domésticos. O console Neo Geo foi lançado oficialmente em 31 de janeiro de 1990 em Osaka, Japão. O AES é idêntico ao seu equivalente de arcade, o MVS, portanto, os jogos de arcade lançados para o mercado doméstico são conversões quase idênticas.</systemDescription>
       <systemManufacturer>SNK</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
       <systemReleaseDate>1990-01-31</systemReleaseDate>
-      <systemReleaseDateFormated>January 31, 1990</systemReleaseDateFormated>
+      <systemReleaseDateFormated>31 de Janeiro de 1990</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>7c828c</systemColor>
    </variables>

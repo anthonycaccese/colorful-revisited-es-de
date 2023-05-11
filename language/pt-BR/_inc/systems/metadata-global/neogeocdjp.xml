@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Neo Geo CD (Japanese: ネオジオCD, Hepburn: Neo Jio Shī Dī) is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges. The system was originally priced at US$399, or £399 in the UK. The unit's 1× CD-ROM drive is slow, with very long loading times. The system can also play Audio CDs. All three versions of the system have no region-lock. The Neo Geo CD was launched bundled with a control pad instead of a joystick like the AES version. However, the original AES joystick can be used with all three Neo Geo CD models.</systemDescription>
+      <systemDescription>O Neo Geo CD (em japonês: ネオジオCD, Hepburn: Neo Jio Shī Dī) é o segundo console de videogame doméstico da família Neo Geo da SNK Corporation, lançado em 9 de setembro de 1994, quatro anos após o seu equivalente baseado em cartuchos. Esta é a mesma plataforma, convertida para o formato de CD mais barato, vendido a US$49 a US$79 por título, em comparação aos cartuchos de US$300. O sistema foi originalmente vendido por US$399, ou £399 no Reino Unido. O drive de CD-ROM 1× da unidade é lento, com tempos de carregamento muito longos. O sistema também pode reproduzir CDs de áudio. As três versões do sistema não possuem bloqueio de região. O Neo Geo CD foi lançado com um controle ao invés de um joystick como na versão AES. No entanto, o joystick original da AES pode ser usado com todos os três modelos do Neo Geo CD.</systemDescription>
       <systemManufacturer>SNK</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-09-09</systemReleaseDate>
-      <systemReleaseDateFormated>September 9, 1994</systemReleaseDateFormated>
+      <systemReleaseDateFormated>9 de Setembro de 1994</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>af98e6</systemColor>
    </variables>
