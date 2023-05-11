@@ -1,12 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>The Nintendo GameCube is a home video game console released by Nintendo in Japan and North America in 2001 and in PAL territories in 2002. The GameCube is Nintendo's entry in the sixth generation of video game consoles and is the successor to their previous console, the Nintendo 64. The GameCube competed with Sony's PlayStation 2 and Microsoft's Xbox.
+      <systemDescription>O Nintendo GameCube é um console de videogame lançado pela Nintendo no Japão e na América do Norte em 2001 e nos territórios PAL em 2002. O GameCube é a entrada da Nintendo na sexta geração de consoles de videogame e é o sucessor de seu console anterior, o Nintendo 64. O GameCube competiu com o PlayStation 2 da Sony e o Xbox da Microsoft.
 
-The GameCube is the first Nintendo console to use optical discs as its primary storage medium. The discs are in a miniDVD-based format but the system was not designed to play full-sized DVDs or audio CDs unlike its competitors, and mainly focused on gaming instead. The console supports limited online gaming for a small number of games via a GameCube broadband or modem adapter and can connect to a Game Boy Advance with a link cable, which allows players to access exclusive in-game features using the handheld as a second screen and controller like a Wii U.</systemDescription>
+O GameCube é o primeiro console da Nintendo a usar discos ópticos como seu meio de armazenamento primário. Os discos estão em um formato baseado em miniDVD, mas o sistema não foi projetado para reproduzir DVDs de tamanho normal ou CDs de áudio, ao contrário de seus concorrentes, e focava principalmente em jogos. O console suporta jogos online limitados para um pequeno número de jogos via um adaptador de banda larga ou modem GameCube e pode se conectar a um Game Boy Advance com um cabo de link, o que permite aos jogadores acessar recursos exclusivos do jogo usando o portátil como uma segunda tela e controlador, como o Wii U.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-08-14</systemReleaseDate>
-      <systemReleaseDateFormated>November 18, 2001</systemReleaseDateFormated>
+      <systemReleaseDateFormated>18 de Novembro de 2001</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>9682f0</systemColor>
    </variables>

@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>The Game Boy Advance (abbreviated as GBA) is a 32-bit handheld video game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. It was released in Japan on March 21, 2001, in North America on June 11, 2001, in Australia and Europe on June 22, 2001, and in mainland China on June 8, 2004 (iQue Player). Nintendo's competitors in the handheld market at the time were the Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac, and the N-Gage. Despite the competitors' best efforts, Nintendo maintained a majority market share with the Game Boy Advance. As of June 30, 2010, the Game Boy Advance series has sold 81.51 million units worldwide. Its successor, the Nintendo DS, was released in November 2004 and is also compatible with Game Boy Advance software.</systemDescription>
+      <systemDescription>O Game Boy Advance (abreviado como GBA) é um console de videogame portátil de 32 bits desenvolvido, fabricado e comercializado pela Nintendo como sucessor do Game Boy Color. Foi lançado no Japão em 21 de março de 2001, na América do Norte em 11 de junho de 2001, na Austrália e Europa em 22 de junho de 2001 e na China continental em 8 de junho de 2004 (iQue Player). Os concorrentes da Nintendo no mercado portátil na época eram o Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac e o N-Gage. Apesar dos melhores esforços dos concorrentes, a Nintendo manteve a maioria do mercado com o Game Boy Advance. Até 30 de junho de 2010, a série Game Boy Advance vendeu 81,51 milhões de unidades em todo o mundo. Seu sucessor, o Nintendo DS, foi lançado em novembro de 2004 e também é compatível com o software do Game Boy Advance.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-06-11</systemReleaseDate>
-      <systemReleaseDateFormated>June 11, 2001</systemReleaseDateFormated>
-      <systemHardwareType>Portable</systemHardwareType>
+      <systemReleaseDateFormated>11 de Junho de 2001</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
       <systemColor>4D74D8</systemColor>
    </variables>
 </theme>

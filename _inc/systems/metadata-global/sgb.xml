@@ -1,15 +1,15 @@
 <theme>
    <variables>
-      <systemDescription>The Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console, compatible with the same cartridges as the original Game Boy: original Game Boy cartridges, the Game Boy Camera, and dual-mode Game Boy Color cartridges (in Game Boy-mode).
+      <systemDescription>O Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) é um periférico que permite jogar cartuchos do Game Boy no console Super Nintendo Entertainment System, compatível com os mesmos cartuchos do Game Boy original: cartuchos do Game Boy original, Game Boy Camera e cartuchos dual-mode Game Boy Color (no modo Game Boy).
 
-The unit could map the four shades of green to various colors on the screen. Later Game Boy games that were optimized to use the Super Game Boy had additional color information and could override the on-screen colors, display a graphical border around the screen, and display special background sprites. Those games would have printed a small "Super Game Boy Game Pak" logo on the box and cartridge. The adaptor could support up to 64 colors for the border, and 12 colors for the screen. Static screens could display all 10 colors. Certain games can load multiple borders depending on the player's location in the game.
+A unidade podia mapear as quatro tonalidades de verde para várias cores na tela. Jogos posteriores do Game Boy que foram otimizados para usar o Super Game Boy tinham informações adicionais de cores e podiam substituir as cores na tela, exibir uma borda gráfica ao redor da tela e exibir sprites especiais de plano de fundo. Esses jogos tinham o logo "Super Game Boy Game Pak" impresso na caixa e no cartucho. O adaptador suportava até 64 cores para a borda e 12 cores para a tela. Telas estáticas podiam exibir todas as 10 cores. Certos jogos podem carregar várias bordas dependendo da localização do jogador no jogo.
 
-It is also possible for Super Game Boy games to make use of the Super NES hardware for extra effects: these games had expanded sound when used with the Super Game Boy. Some titles even allowed the second Super NES controller to be used for two-player action; using the Super Multitap, some games even supported four players.</systemDescription>
+Também era possível que os jogos do Super Game Boy utilizassem o hardware do Super NES para efeitos extras: esses jogos tinham som expandido quando usados com o Super Game Boy. Alguns títulos até permitiam que o segundo controle do Super NES fosse usado para jogos de dois jogadores; usando o Super Multitap, alguns jogos suportavam até quatro jogadores.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-06-28</systemReleaseDate>
-      <systemReleaseDateFormated>June 28, 1994</systemReleaseDateFormated>
-      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemReleaseDateFormated>28 de Junho de 1994</systemReleaseDateFormated>
+      <systemHardwareType>Acessório</systemHardwareType>
       <systemColor>405189</systemColor>
    </variables>
 </theme>

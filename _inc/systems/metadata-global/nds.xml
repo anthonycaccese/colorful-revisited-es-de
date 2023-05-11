@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>The Nintendo DS or simply, DS, is a 32-bit dual-screen handheld game console developed and released by Nintendo. The device went on sale in North America on November 21, 2004. The DS, short for "Developers' System" or "Dual Screen", introduced distinctive new features to handheld gaming: two LCD screens working in tandem (the bottom one featuring a touchscreen), a built-in microphone, and support for wireless connectivity. Both screens are encompassed within a clamshell design similar to the Game Boy Advance SP. The Nintendo DS also features the ability for multiple DS consoles to directly interact with each other over Wi-Fi within a short range without the need to connect to an existing wireless network. Alternatively, they could interact online using the now-closed Nintendo Wi-Fi Connection service.</systemDescription>
+      <systemDescription>O Nintendo DS, ou simplesmente DS, é um console de videogame portátil de duas telas de 32 bits desenvolvido e lançado pela Nintendo. O dispositivo foi lançado para venda na América do Norte em 21 de novembro de 2004. O DS, abreviação de "Developers' System" ou "Dual Screen", introduziu novas características distintas aos jogos portáteis: duas telas LCD trabalhando em conjunto (a inferior com tela sensível ao toque), um microfone embutido e suporte para conectividade sem fio. Ambas as telas estão envolvidas por um design dobrável semelhante ao Game Boy Advance SP. O Nintendo DS também possui a capacidade para múltiplos consoles DS interagirem diretamente entre si por Wi-Fi em uma curta distância sem precisar se conectar a uma rede sem fio existente. Alternativamente, eles poderiam interagir online usando o serviço Nintendo Wi-Fi Connection, agora desativado.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2004</systemReleaseYear>
       <systemReleaseDate>2004-12-01</systemReleaseDate>
-      <systemReleaseDateFormated>November 21, 2004</systemReleaseDateFormated>
-      <systemHardwareType>Portable</systemHardwareType>
+      <systemReleaseDateFormated>21 de Novembro de 2004</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
       <systemColor>b6c9d6</systemColor>
    </variables>
 </theme>

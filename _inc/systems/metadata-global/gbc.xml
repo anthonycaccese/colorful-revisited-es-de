@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>The Game Boy Color, (abbreviated as GBC) is a handheld game console manufactured by Nintendo, which was released on October 21, 1998 in Japan and was released in November of the same year in international markets. It is the successor of the Game Boy. The Game Boy Color, as suggested by the name, features a color screen, but no backlight. It is slightly thicker and taller than the Game Boy Pocket, which is a redesigned Game Boy released in 1996. As with the original Game Boy, it has a custom 8-bit processor somewhat related to a Zilog Z80 central processing unit (CPU). The original name - with its American English spelling of "color" - remained unchanged even in markets where "colour" was the accepted English spelling. The Game Boy Color's primary competitors were the much more advanced Neo Geo Pocket by SNK and the WonderSwan by Bandai (both released in Japan only), though the Game Boy Color outsold these by a wide margin. The Game Boy and Game Boy Color combined have sold 118.69 million units worldwide. It was discontinued in 2003, shortly after the release of the Game Boy Advance SP.</systemDescription>
+      <systemDescription>O Game Boy Color, abreviado como GBC, é um console de videogame portátil fabricado pela Nintendo, que foi lançado em 21 de outubro de 1998 no Japão e foi lançado em novembro do mesmo ano nos mercados internacionais. É o sucessor do Game Boy. O Game Boy Color, como sugere o nome, possui uma tela colorida, mas sem retroiluminação. É um pouco mais espesso e alto do que o Game Boy Pocket, que é um Game Boy redesenhado lançado em 1996. Assim como o Game Boy original, possui um processador personalizado de 8 bits relacionado a uma unidade central de processamento (CPU) Zilog Z80. O nome original - com sua grafia americana de "color" - permaneceu inalterado mesmo em mercados onde "colour" era a grafia inglesa aceita. Os principais concorrentes do Game Boy Color foram o muito mais avançado Neo Geo Pocket da SNK e o WonderSwan da Bandai (ambos lançados apenas no Japão), embora o Game Boy Color tenha superado ambos por uma ampla margem. O Game Boy e o Game Boy Color combinados venderam 118,69 milhões de unidades em todo o mundo. Foi descontinuado em 2003, pouco depois do lançamento do Game Boy Advance SP.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
       <systemReleaseDate>1998-10-21</systemReleaseDate>
-      <systemReleaseDateFormated>October 21, 1998</systemReleaseDateFormated>
-      <systemHardwareType>Portable</systemHardwareType>
+      <systemReleaseDateFormated>21 de Outubro de 1998</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
       <systemColor>F5BA2D</systemColor>
    </variables>
 </theme>

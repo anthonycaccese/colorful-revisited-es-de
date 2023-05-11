@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Nintendo Switch is an eighth generation (2012-present) home video game console developed and distributed by Nintendo. It was released on March 3, 2017 in North America at a retail price of $299.99. The console was simultaneously released in Japan (2017), Europe (2017), South America (2017), Australia (2017) and other World Wide Markets (2017). The Switch is designed to be a hybrid console, allowing games to be played at a TV, and then on the go by undocking the system and playing from the handheld unit itself. As of this date, the console is still in production.</systemDescription>
+      <systemDescription>O Nintendo Switch é um console de videogame doméstico de oitava geração (2012-presente) desenvolvido e distribuído pela Nintendo. Foi lançado em 3 de março de 2017 na América do Norte pelo preço de varejo de $299,99. O console foi lançado simultaneamente no Japão (2017), Europa (2017), América do Sul (2017), Austrália (2017) e outros mercados mundiais (2017). O Switch foi projetado para ser um console híbrido, permitindo que jogos sejam jogados em uma TV e, em seguida, levados a qualquer lugar ao desconectar o sistema e jogar a partir da unidade portátil. Até a presente data, o console ainda está em produção.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2017</systemReleaseYear>
       <systemReleaseDate>2017-03-03</systemReleaseDate>
-      <systemReleaseDateFormated>March 3, 2017</systemReleaseDateFormated>
+      <systemReleaseDateFormated>3 de Março de 2017</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>fb584f</systemColor>
    </variables>

@@ -1,15 +1,15 @@
 <theme>
    <variables>
-      <systemDescription>TThe Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
+      <systemDescription>A marca Game &amp; Watch é uma série de jogos eletrônicos portáteis desenvolvidos, fabricados, lançados e comercializados pela Nintendo de 1980 a 1991. Criado pelo designer de jogos Gunpei Yokoi, o produto recebeu seu nome por apresentar um único jogo, bem como um relógio em uma tela LCD. Os modelos a partir de 1981 apresentavam um alarme adicional. Foi o primeiro produto de videogame da Nintendo a obter grande sucesso.
 
-The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.
+As unidades são baseadas em uma CPU de 4 bits, da família Sharp SM5xx, que inclui uma pequena área de ROM e RAM e um circuito de driver de tela LCD, embora, antes de sua simulação no MAME, houvesse um equívoco de que cada unidade usava um ASIC personalizado em vez de um microcontrolador adequado.
 
-The series sold a combined of 43.4 million units worldwide.</systemDescription>
+A série vendeu um total combinado de 43,4 milhões de unidades em todo o mundo.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1980</systemReleaseYear>
       <systemReleaseDate>1980-04-28</systemReleaseDate>
-      <systemReleaseDateFormated>April 28, 1980</systemReleaseDateFormated>
-      <systemHardwareType>Portable</systemHardwareType>
+      <systemReleaseDateFormated>28 de Abril de 1980</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
       <systemColor>8EA7AE</systemColor>
    </variables>
 </theme>
