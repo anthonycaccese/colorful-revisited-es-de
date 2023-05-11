@@ -1,12 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>The PlayStation 2 (PS2) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on March 4, 2000, in North America on October 26, 2000, in Europe on November 24, 2000, and Australia on November 24, 2000. It is the successor to the original PlayStation, as well as the second installment in the PlayStation console line-up. A sixth-generation console, it competed with Sega's Dreamcast, Nintendo's GameCube, and Microsoft's original Xbox.
+      <systemDescription>O PlayStation 2 (PS2) é um console de videogame doméstico desenvolvido e comercializado pela Sony Computer Entertainment. Foi lançado pela primeira vez no Japão em 4 de março de 2000, na América do Norte em 26 de outubro de 2000, na Europa em 24 de novembro de 2000 e na Austrália em 24 de novembro de 2000. É o sucessor do PlayStation original e a segunda geração na linha de consoles PlayStation. Como console de sexta geração, ele competiu com o Dreamcast da Sega, o GameCube da Nintendo e o Xbox original da Microsoft.
 
-Announced in 1999, the PS2 offered backward-compatibility for its predecessor's DualShock controller, as well as its games. The PS2 is the best-selling video game console of all time, having sold over 155 million units worldwide. Over 3,800 game titles have been released for the PS2, with over 1.5 billion copies sold. Sony later manufactured several smaller, lighter revisions of the console known as Slimline models in 2004.</systemDescription>
+Anunciado em 1999, o PS2 oferecia compatibilidade com o controlador DualShock do seu antecessor, bem como com seus jogos. O PS2 é o console de videogame mais vendido de todos os tempos, tendo vendido mais de 155 milhões de unidades em todo o mundo. Mais de 3.800 títulos de jogos foram lançados para o PS2, com mais de 1,5 bilhão de cópias vendidas. Mais tarde, a Sony fabricou várias revisões menores e mais leves do console conhecidas como modelos Slimline em 2004.</systemDescription>
       <systemManufacturer>Sony</systemManufacturer>
       <systemReleaseYear>2000</systemReleaseYear>
       <systemReleaseDate>2000-03-04</systemReleaseDate>
-      <systemReleaseDateFormated>March 4, 2000</systemReleaseDateFormated>
+      <systemReleaseDateFormated>4 de Março de 2000</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>3069c0</systemColor>
    </variables>
