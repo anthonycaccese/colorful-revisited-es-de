@@ -5,12 +5,12 @@
          <text>${systemHardwareType}</text>
       </text>
       <text name="system-name">
-         <text>Now Playing</text>
+         <text>Jogando Agora</text>
       </text>
    </view>
    <view name="gamelist">
       <text name="system-name">
-         <text>Now Playing</text>
+         <text>Jogando Agora</text>
       </text>
    </view>
 </theme>

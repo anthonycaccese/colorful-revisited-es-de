@@ -124,7 +124,7 @@ license:       creative commons CC-BY-NC-SA
          <fontPath>${fontBold}</fontPath>
          <fontSize>0.02037037037037</fontSize><!-- 22 -->
          <lineSpacing>1</lineSpacing>
-         <text>Games</text>
+         <text>Jogos</text>
          <color>${metadataLabelColor}</color>
       </text>
       <text name="system-favorites-count">
@@ -142,7 +142,7 @@ license:       creative commons CC-BY-NC-SA
          <fontPath>${fontBold}</fontPath>
          <fontSize>0.02037037037037</fontSize><!-- 22 -->
          <lineSpacing>1</lineSpacing>
-         <text>Favorites</text>
+         <text>Favoritos</text>
          <color>${metadataLabelColor}</color>
       </text>
       <helpsystem name="help">
@@ -255,7 +255,7 @@ license:       creative commons CC-BY-NC-SA
          <metadataElement>true</metadataElement>
       </text>
       <text name="game-rating-label">
-         <text>Rating</text>
+         <text>Avaliação</text>
       </text>
       <rating name="rating">
          <origin>0.5 0</origin>
@@ -266,7 +266,7 @@ license:       creative commons CC-BY-NC-SA
          <color>${systemColor}</color>
       </rating>
       <text name="game-play-count-label">
-         <text>Play Count</text>
+         <text>Quant. Jogadas</text>
       </text>
       <text name="game-play-count">
          <origin>0.5 0</origin>
@@ -278,7 +278,7 @@ license:       creative commons CC-BY-NC-SA
          <color>${metadataColor}</color>
       </text>
       <text name="game-release-date-label">
-         <text>Released</text>
+         <text>Lançamento</text>
       </text>
       <datetime name="game-release-date">
          <origin>0.5 0</origin>
@@ -292,7 +292,7 @@ license:       creative commons CC-BY-NC-SA
          <color>${metadataColor}</color>
       </datetime>
       <text name="game-players-label">
-         <text>Players</text>
+         <text>Quant. Jogadores</text>
       </text>
       <text name="game-players">
          <origin>0.5 0</origin>
@@ -305,7 +305,7 @@ license:       creative commons CC-BY-NC-SA
          <color>${metadataColor}</color>
       </text>
       <text name="game-developer-label">
-         <text>Developer</text>
+         <text>Desenvolvedora</text>
       </text>
       <text name="game-developer">
          <origin>0.5 0</origin>
@@ -319,7 +319,7 @@ license:       creative commons CC-BY-NC-SA
          <color>${metadataColor}</color>
       </text>
       <text name="game-publisher-label">
-         <text>Publisher</text>
+         <text>Publicadora</text>
       </text>
       <text name="game-publisher">
          <origin>0.5 0</origin>
