@@ -1,12 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. The Genesis is Sega's third console and the successor to the Master System. Sega released it as the Mega Drive in Japan in 1988, and later as the Genesis in North America in 1989. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australasia, and Tec Toy in Brazil. In South Korea, it was distributed by Samsung as the Super GameBoy and later the Super Aladdin Boy.
+      <systemDescription>O Sega Genesis, conhecido como Mega Drive fora da América do Norte, é um console de jogos eletrônicos de 16 bits de quarta geração desenvolvido e vendido pela Sega. O Genesis é o terceiro console da Sega e sucessor do Master System. A Sega o lançou como Mega Drive no Japão em 1988 e depois como Genesis na América do Norte em 1989. Em 1990, foi distribuído como Mega Drive pela Virgin Mastertronic na Europa, Ozisoft na Australásia e Tec Toy no Brasil. Na Coreia do Sul, foi distribuído pela Samsung como Super GameBoy e depois Super Aladdin Boy.
 
-Designed by an R&amp;D team supervised by Hideki Sato and Masami Ishikawa, the Genesis was adapted from Sega's System 16 arcade board, centered on a Motorola 68000 processor as the CPU, a Zilog Z80 as a sound controller, and a video system supporting hardware sprites, tiles, and scrolling. It plays a library of more than 900 games created by Sega and a wide array of third-party publishers delivered on ROM-based cartridges. Several add-ons were released, including a Power Base Converter to play Master System games. It was released in several different versions, some created by third parties. Sega created two network services to support the Genesis: Sega Meganet and Sega Channel.</systemDescription>
+Projetado por uma equipe de P&amp;D supervisionada por Hideki Sato e Masami Ishikawa, o Genesis foi adaptado da placa de arcade System 16 da Sega, centrado em um processador Motorola 68000 como a CPU, um Zilog Z80 como controlador de som e um sistema de vídeo com suporte a sprites de hardware, tiles e rolagem. Ele reproduz uma biblioteca de mais de 900 jogos criados pela Sega e uma ampla variedade de editores terceirizados entregues em cartuchos baseados em ROM. Vários complementos foram lançados, incluindo um Conversor de Base de Energia para jogar jogos do Master System. Foi lançado em várias versões diferentes, algumas criadas por terceiros. A Sega criou dois serviços de rede para suportar o Genesis: Sega Meganet e Sega Channel.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>
       <systemReleaseDate>1989-08-14</systemReleaseDate>
-      <systemReleaseDateFormated>August 14, 1989</systemReleaseDateFormated>
+      <systemReleaseDateFormated>14 de Agosto de 1989</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>0e7acd</systemColor>
    </variables>

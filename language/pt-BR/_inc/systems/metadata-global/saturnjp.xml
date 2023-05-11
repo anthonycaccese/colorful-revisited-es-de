@@ -1,12 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>The Sega Saturn is a home video game console developed by Sega and released on November 22, 1994 in Japan, May 11, 1995 in North America, and July 8, 1995 in Europe. Part of the fifth generation of video game consoles, it was the successor to the successful Sega Genesis. The Saturn has a dual-CPU architecture and eight processors. Its games are in CD-ROM format, and its game library contains several ports of arcade games as well as original games.
+      <systemDescription>O Sega Saturn é um console de videogame doméstico desenvolvido pela Sega e lançado em 22 de novembro de 1994 no Japão, 11 de maio de 1995 na América do Norte e 8 de julho de 1995 na Europa. Parte da quinta geração de consoles de videogame, ele foi o sucessor do bem-sucedido Sega Genesis. O Saturn possui uma arquitetura de CPU dupla e oito processadores. Seus jogos estão no formato CD-ROM, e sua biblioteca de jogos contém vários ports de jogos de arcade, bem como jogos originais.
 
-Development of the Saturn began in 1992, the same year Sega's groundbreaking 3D Model 1 arcade hardware debuted. The Saturn was designed around a new CPU from Japanese electronics company Hitachi. Sega added another video display processor in early 1994 to better compete with Sony's forthcoming PlayStation.</systemDescription>
+O desenvolvimento do Saturn começou em 1992, o mesmo ano em que o revolucionário hardware de arcade 3D Model 1 da Sega estreou. O Saturn foi projetado em torno de uma nova CPU da empresa japonesa de eletrônicos Hitachi. A Sega adicionou outro processador de exibição de vídeo no início de 1994 para competir melhor com o futuro PlayStation da Sony.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-11-22</systemReleaseDate>
-      <systemReleaseDateFormated>November 22, 1994</systemReleaseDateFormated>
+      <systemReleaseDateFormated>22 de Novembro de 1994</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>5b7ada</systemColor>
    </variables>

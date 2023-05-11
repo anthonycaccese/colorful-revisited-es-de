@@ -1,13 +1,13 @@
 <theme>
    <variables>
-      <systemDescription>The 32X is an add-on for the Sega Mega Drive/Genesis video game console. Codenamed "Project Mars", the 32X was designed to expand the power of the Mega Drive/Genesis and serve as a transitional console into the 32-bit era until the release of the Sega Saturn. Independent of the console, the 32X uses its own ROM cartridges and has its own library of games. It was distributed under the name Super 32X in Japan, Genesis 32X in North America, Mega Drive 32X in the PAL region, and Mega 32X in Brazil.
+      <systemDescription>O 32X é um acessório para o console de videogame Sega Mega Drive/Genesis. Codinome "Project Mars", o 32X foi projetado para expandir o poder do Mega Drive/Genesis e servir como um console de transição para a era de 32 bits até o lançamento do Sega Saturn. Independente do console, o 32X usa seus próprios cartuchos de ROM e tem sua própria biblioteca de jogos. Foi distribuído sob o nome de Super 32X no Japão, Genesis 32X na América do Norte, Mega Drive 32X na região PAL e Mega 32X no Brasil.
 
-Unveiled by Sega at June 1994's Consumer Electronics Show, the 32X was presented as a low-cost option for consumers looking to play 32-bit games. It was developed in response to the Atari Jaguar and concerns that the Saturn would not make it to market by the end of 1994. Though it was conceived as an entirely new console, at the suggestion of Sega of America executive Joe Miller and his team, it was converted into an add-on for the Genesis and made more powerful. The final design contained two 32-bit central processing units and a 3D graphics processor.</systemDescription>
+Apresentado pela Sega na Consumer Electronics Show de junho de 1994, o 32X foi apresentado como uma opção de baixo custo para os consumidores que procuravam jogar jogos de 32 bits. Foi desenvolvido em resposta ao Atari Jaguar e preocupações de que o Saturn não seria lançado até o final de 1994. Embora tenha sido concebido como um console totalmente novo, por sugestão do executivo da Sega of America Joe Miller e sua equipe, foi convertido em um acessório para o Genesis e tornou-se mais poderoso. O design final continha dois processadores centrais de 32 bits e um processador gráfico 3D.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-06-01</systemReleaseDate>
-      <systemReleaseDateFormated>June 1, 1994</systemReleaseDateFormated>
-      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemReleaseDateFormated>1 de Junho de 1994</systemReleaseDateFormated>
+      <systemHardwareType>Acessório</systemHardwareType>
       <systemColor>0e7acd</systemColor>
    </variables>
 </theme>

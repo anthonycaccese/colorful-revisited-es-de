@@ -1,13 +1,13 @@
 <theme>
    <variables>
-      <systemDescription>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe. The Sega CD plays CD-based games and adds hardware functionality such as a faster central processing unit and graphic enhancements like sprite scaling and rotation. It can also play audio CDs and CD+G discs.
+      <systemDescription>O Sega CD, lançado como Mega-CD na maioria das regiões fora da América do Norte e Brasil, é um acessório de CD-ROM para o Mega Drive/Genesis projetado e produzido pela Sega como parte da quarta geração de consoles de jogos eletrônicos. Foi lançado em 12 de dezembro de 1991 no Japão, 15 de outubro de 1992 na América do Norte e 2 de abril de 1993 na Europa. O Sega CD reproduz jogos em CD e adiciona funcionalidades de hardware, como uma unidade central de processamento mais rápida e aprimoramentos gráficos, como redimensionamento e rotação de sprites. Ele também pode reproduzir CDs de áudio e discos CD+G.
 
-The main benefit of CD technology was greater storage, which allowed for games to be nearly 320 times larger than Genesis cartridges. This benefit manifested as full motion video (FMV) games such as the controversial Night Trap, which became a focus of the 1993 congressional hearings on issues of video game violence and ratings. Sega of Japan partnered with JVC to design the Sega CD and refused to consult with Sega of America until the project was complete. Sega of America assembled parts from various "dummy" units to obtain a working prototype. It was redesigned several times by Sega and licensed third-party developers.</systemDescription>
+O principal benefício da tecnologia de CD foi o maior armazenamento, o que permitiu que os jogos fossem quase 320 vezes maiores do que os cartuchos do Genesis. Esse benefício se manifestou em jogos de vídeo com movimento completo (FMV), como o controverso Night Trap, que se tornou um foco das audiências congressionais de 1993 sobre questões de violência e classificação de jogos de vídeo. A Sega do Japão se associou à JVC para projetar o Sega CD e se recusou a consultar a Sega da América até que o projeto estivesse concluído. A Sega da América montou peças de várias unidades "falsas" para obter um protótipo funcional. Foi redesenhado várias vezes pela Sega e desenvolvedores terceirizados licenciados.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1992</systemReleaseYear>
       <systemReleaseDate>1992-10-15</systemReleaseDate>
-      <systemReleaseDateFormated>October 15, 1992</systemReleaseDateFormated>
-      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemReleaseDateFormated>15 de Outubro de 1992</systemReleaseDateFormated>
+      <systemHardwareType>Acessório</systemHardwareType>
       <systemColor>0e7acd</systemColor>
    </variables>
 </theme>
