@@ -1,13 +1,13 @@
 <theme>
    <variables>
-      <systemDescription>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future.
+      <systemDescription>O Commodore VIC-20 (conhecido como VC-20 na Alemanha e VIC-1001 no Japão) é um computador doméstico de 8 bits que foi vendido pela Commodore Business Machines. O VIC-20 foi anunciado em 1980, cerca de três anos após o primeiro computador pessoal da Commodore, o PET. O VIC-20 foi o primeiro computador de qualquer tipo a vender um milhão de unidades. Ele foi descrito como "um dos primeiros computadores não esotéricos e não espectatoriais projetados...não mais limitado a entusiastas ou aqueles com dinheiro, o computador que a Commodore desenvolveu era o computador do futuro".
 
-The VIC-20 was called VC-20 in Germany because the pronunciation of VIC with a German accent sounds like the German expletives "fick" or "wichsen". The term VC was marketed as though it was an abbreviation of VolksComputer ("people's computer," similar to Volkswagen and Volksempfänger).</systemDescription>
+O VIC-20 foi chamado de VC-20 na Alemanha porque a pronúncia de VIC com sotaque alemão soa como os palavrões alemães "fick" ou "wichsen". O termo VC foi comercializado como se fosse uma abreviação de VolksComputer ("computador do povo", semelhante a Volkswagen e Volksempfänger).</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1980</systemReleaseYear>
       <systemReleaseDate>1980-06</systemReleaseDate>
-      <systemReleaseDateFormated>June 1980</systemReleaseDateFormated>
-      <systemHardwareType>Computer</systemHardwareType>
+      <systemReleaseDateFormated>Junho de 1980</systemReleaseDateFormated>
+      <systemHardwareType>Computador</systemHardwareType>
       <systemColor>5F8FC8</systemColor>
    </variables>
 </theme>

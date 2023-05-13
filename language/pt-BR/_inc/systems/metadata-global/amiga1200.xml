@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe.</systemDescription>
+      <systemDescription>O Amiga é uma família de computadores pessoais comercializados pela Commodore nas décadas de 1980 e 1990. O primeiro modelo foi lançado em 1985 como um computador doméstico de alta qualidade e tornou-se popular por suas capacidades gráficas, de áudio e multitarefa. O Amiga ofereceu uma atualização significativa em relação aos computadores de 8 bits, como o Commodore 64, e a plataforma rapidamente cresceu em popularidade entre os entusiastas de computadores. O modelo mais vendido, o Amiga 500, foi introduzido em 1987 e tornou-se o computador doméstico líder do final dos anos 80 e início dos anos 90 em grande parte da Europa Ocidental.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
       <systemReleaseDate>1985-07-23</systemReleaseDate>
-      <systemReleaseDateFormated>July 23, 1985</systemReleaseDateFormated>
-      <systemHardwareType>Computer</systemHardwareType>
+      <systemReleaseDateFormated>23 de Julho de 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computador</systemHardwareType>
       <systemColor>3870c5</systemColor>
    </variables>
 </theme>

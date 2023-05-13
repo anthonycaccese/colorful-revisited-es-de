@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, marketing in August for US$595 (equivalent to $1,461 in 2015). Preceded by the Commodore VIC-20 and Commodore PET, the C64 took its name from its 64 kilobytes (65,536 bytes) of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</systemDescription>
+      <systemDescription>O Commodore 64 é um computador doméstico de 8 bits introduzido em janeiro de 1982 pela Commodore International. Ele está listado no Guinness World Records como o modelo de computador individual mais vendido de todos os tempos, com estimativas independentes colocando o número vendido entre 10 e 17 milhões de unidades. A produção em grande volume começou no início de 1982, com lançamento em agosto por US$ 595 (equivalente a $ 1.461 em 2015). Precedido pelo Commodore VIC-20 e Commodore PET, o C64 recebeu seu nome devido aos seus 64 kilobytes (65.536 bytes) de RAM. Ele tinha especificações de som e gráficos superiores em comparação com outros sistemas anteriores, como o Apple II e Atari 800, com sprites multicoloridos e um processador de som mais avançado.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-01-01</systemReleaseDate>
-      <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
-      <systemHardwareType>Computer</systemHardwareType>
+      <systemReleaseDateFormated>1 de Janeiro de 1982</systemReleaseDateFormated>
+      <systemHardwareType>Computador</systemHardwareType>
       <systemColor>0959b2</systemColor>
    </variables>
 </theme>
