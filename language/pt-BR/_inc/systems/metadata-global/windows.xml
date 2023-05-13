@@ -1,13 +1,13 @@
 <theme>
    <variables>
-      <systemDescription>Windows is a group of several proprietary graphical operating system families developed and marketed by Microsoft. Each family caters to a certain sector of the computing industry. For example, Windows NT for consumers, Windows Server for servers, and Windows IoT for embedded systems. Defunct Windows families include Windows 9x, Windows Mobile, and Windows Phone.
+      <systemDescription>O Windows é um grupo de várias famílias proprietárias de sistemas operacionais gráficos desenvolvidos e comercializados pela Microsoft. Cada família atende a um determinado setor da indústria da computação. Por exemplo, o Windows NT para consumidores, o Windows Server para servidores e o Windows IoT para sistemas embarcados. Famílias extintas do Windows incluem o Windows 9x, o Windows Mobile e o Windows Phone.
 
-The first version of Windows was released on November 20, 1985, as a graphical operating system shell for MS-DOS in response to the growing interest in graphical user interfaces (GUIs).</systemDescription>
+A primeira versão do Windows foi lançada em 20 de novembro de 1985, como um shell de sistema operacional gráfico para MS-DOS, em resposta ao crescente interesse em interfaces gráficas do usuário (GUIs).</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
       <systemReleaseDate>1985-11-20</systemReleaseDate>
-      <systemReleaseDateFormated>November 20, 1985</systemReleaseDateFormated>
-      <systemHardwareType>OS</systemHardwareType>
+      <systemReleaseDateFormated>20 de Novembro de 1985</systemReleaseDateFormated>
+      <systemHardwareType>SO</systemHardwareType>
       <systemColor>38b1de</systemColor>
    </variables>
 </theme>

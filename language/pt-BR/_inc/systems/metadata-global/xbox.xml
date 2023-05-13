@@ -1,12 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh, and eighth generations, respectively. The brand also represents applications (games), streaming services, an online service by the name of Xbox Live, and the development arm by the name of Xbox Game Studios.
+      <systemDescription>O Xbox é uma marca de videogames criada e de propriedade da Microsoft. Ela representa uma série de consoles de videogame desenvolvidos pela Microsoft, com três consoles lançados na sexta, sétima e oitava geração, respectivamente. A marca também representa aplicativos (jogos), serviços de streaming, um serviço online chamado Xbox Live e o braço de desenvolvimento chamado Xbox Game Studios.
 
-The brand was first introduced in the United States in November 2001, with the launch of the original Xbox console.</systemDescription>
+A marca foi introduzida pela primeira vez nos Estados Unidos em novembro de 2001, com o lançamento do console original do Xbox.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-11-15</systemReleaseDate>
-      <systemReleaseDateFormated>November 15, 2001</systemReleaseDateFormated>
+      <systemReleaseDateFormated>15 de Novembro de 2001</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>6bb555</systemColor>
    </variables>

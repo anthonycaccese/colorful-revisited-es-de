@@ -1,11 +1,11 @@
 <theme>
    <variables>
-      <systemDescription>MS-DOS, short for Microsoft Disk Operating System, was an operating system for x86-based personal computers mostly developed by Microsoft. It was the most commonly used member of the DOS family of operating systems, and was the main operating system for IBM PC compatible personal computers during the 1980s to the mid-1990s, when it was gradually superseded by operating systems offering a graphical user interface (GUI), in various generations of the Microsoft Windows operating system.</systemDescription>
+      <systemDescription>O MS-DOS, abreviação de Microsoft Disk Operating System, foi um sistema operacional para computadores pessoais baseados em x86, principalmente desenvolvido pela Microsoft. Foi o membro mais comum da família de sistemas operacionais DOS e o principal sistema operacional para computadores pessoais compatíveis com IBM PC durante as décadas de 1980 a meados de 1990, quando foi gradualmente substituído por sistemas operacionais que ofereciam uma interface gráfica do usuário (GUI), em várias gerações do sistema operacional Microsoft Windows.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1981</systemReleaseYear>
       <systemReleaseDate>1981-08-01</systemReleaseDate>
-      <systemReleaseDateFormated>August 1, 1981</systemReleaseDateFormated>
-      <systemHardwareType>OS</systemHardwareType>
+      <systemReleaseDateFormated>1 de Agosto de 1981</systemReleaseDateFormated>
+      <systemHardwareType>SO</systemHardwareType>
       <systemColor>2d62c1</systemColor>
    </variables>
 </theme>
