@@ -27,5 +27,8 @@
    <colorScheme name="dark">
       <label>Dark</label>
    </colorScheme>
+   <colorScheme name="black">
+      <label>Black</label>
+   </colorScheme>
 
 </themeCapabilities>

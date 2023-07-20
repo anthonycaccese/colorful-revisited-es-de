@@ -41,6 +41,18 @@ license:       creative commons CC-BY-NC-SA
          <metadataColor>ffffff</metadataColor>
       </variables>
    </colorScheme>
+   <colorScheme name="black">
+      <variables>
+         <backgroundColor>000000</backgroundColor>
+         <backgroundSystemStats>./_inc/images/background-system-stats-dark.svg</backgroundSystemStats>
+         <backgroundGameStats>./_inc/images/background-game-stats-dark.svg</backgroundGameStats>
+         <badgeIconColor>b1b1b1</badgeIconColor>
+         <nameColor>ffffff</nameColor>
+         <descriptionColor>ffffff</descriptionColor>
+         <metadataLabelColor>7e7e7e</metadataLabelColor>
+         <metadataColor>ffffff</metadataColor>
+      </variables>
+   </colorScheme>
 
    <view name="system,gamelist">
       <image name="background">
