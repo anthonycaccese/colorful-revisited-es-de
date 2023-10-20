@@ -1,0 +1,11 @@
+<theme>
+   <variables>
+      <systemDescription>O CDTV (acrônimo para "Commodore Dynamic Total Vision", um acrônimo invertido de "Compact Disc Television", que lhe dá um significado duplo) é uma plataforma multimídia desenvolvida pela Commodore International e lançada em março de 1991. O CDTV foi projetado como um aparelho de mídia, ao invés de um computador pessoal.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1991</systemReleaseYear>
+      <systemReleaseDate>1991-03-01</systemReleaseDate>
+      <systemReleaseDateFormated>1 de Março de 1991</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>795dbb</systemColor>
+   </variables>
+</theme>

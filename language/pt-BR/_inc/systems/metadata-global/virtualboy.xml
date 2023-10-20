@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>O Virtual Boy é um console portátil de jogos de vídeo de mesa de 32 bits desenvolvido e fabricado pela Nintendo. Lançado em 1995, foi promovido como o primeiro console capaz de exibir gráficos estereoscópicos em "3D". O jogador usa o console como um visor montado na cabeça, colocando a cabeça contra a ocular para ver uma tela monocromática vermelha.
+
+Os jogos usam um efeito de paralaxe para criar a ilusão de profundidade. As vendas não atenderam às metas, e a Nintendo cessou a distribuição e o desenvolvimento de jogos em 1996, tendo lançado apenas 22 jogos para o sistema.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1995</systemReleaseYear>
+      <systemReleaseDate>1995-07-21</systemReleaseDate>
+      <systemReleaseDateFormated>21 de Julho de 1995</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
+      <systemColor>e3414c</systemColor>
+   </variables>
+</theme>

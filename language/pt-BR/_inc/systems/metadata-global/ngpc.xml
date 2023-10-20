@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>O Neo Geo Pocket Color é um console portátil de videogame de 16 bits fabricado pela SNK. É um sucessor do console portátil Neo Geo Pocket monocromático da SNK, que estreou em 1998 no Japão, sendo o Color totalmente compatível com ele. O Neo Geo Pocket Color foi lançado em 16 de março de 1999 no Japão, em 6 de agosto de 1999 na América do Norte e em 1º de outubro de 1999 na Europa, entrando em mercados todos dominados pela Nintendo, competindo com o Game Boy Color da Nintendo.
+
+Após um bom começo de vendas nos EUA e no Japão com 14 títulos de lançamento (um recorde na época), o subsequente baixo suporte no varejo nos EUA, a falta de comunicação com desenvolvedores de terceiros pela gerência americana da SNK, a popularidade da franquia Pokémon da Nintendo e a expectativa do Game Boy Advance de 32 bits, e forte concorrência do WonderSwan da Bandai no Japão, levaram a uma queda nas vendas em ambas as regiões.</systemDescription>
+      <systemManufacturer>SNK</systemManufacturer>
+      <systemReleaseYear>1999</systemReleaseYear>
+      <systemReleaseDate>1999-03-16</systemReleaseDate>
+      <systemReleaseDateFormated>16 de Março de 1999</systemReleaseDateFormated>
+      <systemHardwareType>Portátil</systemHardwareType>
+      <systemColor>ed9f46</systemColor>
+   </variables>
+</theme>

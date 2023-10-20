@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>O Sega CD, lançado como o Mega-CD na maioria das regiões fora da América do Norte e do Brasil, é um acessório CD-ROM para o Mega Drive/Genesis projetado e produzido pela Sega como parte da quarta geração de consoles de jogos eletrônicos. Foi lançado em 12 de dezembro de 1991 no Japão, em 15 de outubro de 1992 na América do Norte e em 2 de abril de 1993 na Europa. O Sega CD reproduz jogos em CD e adiciona funcionalidades de hardware, como uma unidade central de processamento mais rápida e melhorias gráficas, como escalonamento e rotação de sprites. Ele também pode reproduzir CDs de áudio e discos CD+G.
+
+O principal benefício da tecnologia CD era o maior armazenamento, que permitia que os jogos fossem quase 320 vezes maiores do que os cartuchos do Genesis. Esse benefício se manifestou em jogos de vídeo em movimento completo (FMV), como o controverso Night Trap, que se tornou um foco das audiências do Congresso de 1993 sobre questões de violência e classificações de jogos eletrônicos. A Sega do Japão se uniu à JVC para projetar o Sega CD e se recusou a consultar a Sega da América até que o projeto estivesse concluído. A Sega da América montou peças de vários protótipos para obter um protótipo funcional. Ele foi redesenhado várias vezes pela Sega e por desenvolvedores terceirizados licenciados.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1993</systemReleaseYear>
+      <systemReleaseDate>1993-04-02</systemReleaseDate>
+      <systemReleaseDateFormated>2 de Abril de 1993</systemReleaseDateFormated>
+      <systemHardwareType>Acessório</systemHardwareType>
+      <systemColor>0e7acd</systemColor>
+   </variables>
+</theme>

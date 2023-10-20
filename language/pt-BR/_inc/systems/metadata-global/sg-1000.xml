@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>O SG-1000 é um console de videogame doméstico fabricado pela Sega e lançado no Japão, Austrália, Nova Zelândia e outras regiões. Foi a primeira entrada da Sega no negócio de hardware de videogames domésticos. Lançado em 1983, o SG-1000 foi lançado no mesmo dia em que a Nintendo lançou o Family Computer no Japão. O SG-1000 foi lançado em várias formas, incluindo o computador SC-3000 e o redesenhado SG-1000 II lançado em 1984. Uma terceira iteração do console, o Sega Mark III, foi lançada em 1985. Ele forneceu um processador de exibição de vídeo personalizado em relação às iterações anteriores e serviu como base para o Master System em 1986, o primeiro console lançado internacionalmente pela Sega.
+
+Desenvolvido em resposta a uma queda nos fliperamas em 1982, o SG-1000 foi criado com base no conselho de Hayao Nakayama, presidente da Sega Enterprises, Ltd. Pouco depois do lançamento, a Sega Enterprises foi vendida para a CSK Corporation, o que foi seguido pelo lançamento do SG-1000 II. O SC-3000 e a linha SG-1000 suportam uma biblioteca de 76 jogos em cartucho ROM e 29 jogos em cartão Sega My, todos totalmente compatíveis com o Mark III e a versão japonesa do Master System.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1983</systemReleaseYear>
+      <systemReleaseDate>1983-07-15</systemReleaseDate>
+      <systemReleaseDateFormated>15 de Julho de 1983</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>4957a1</systemColor>
+   </variables>
+</theme>

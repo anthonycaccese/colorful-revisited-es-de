@@ -1,0 +1,13 @@
+<theme>
+   <variables>
+      <systemDescription>MSX é uma arquitetura padronizada de computadores domésticos, anunciada pela Microsoft e pela ASCII Corporation em 16 de junho de 1983. Inicialmente concebido pela Microsoft como um produto para o setor oriental, foi comercializado em conjunto por Kazuhiko Nishi, então vice-presidente da Microsoft, e diretor da ASCII Corporation. Microsoft e Nishi conceberam o projeto como uma tentativa de criar padrões unificados entre vários fabricantes de sistemas de computação domésticos da época, da mesma forma que o padrão VHS para máquinas de fita de vídeo domésticas.
+
+Os sistemas MSX eram populares no Japão e em vários outros países. A Sony era o principal fabricante de sistemas MSX na época do lançamento, e ao longo da maior parte da vida do produto, produziu mais unidades do que qualquer outro fabricante. Eventualmente, foram vendidas 5 milhões de unidades baseadas em MSX somente no Japão. Apesar do envolvimento da Microsoft, poucas máquinas baseadas em MSX foram lançadas nos Estados Unidos.</systemDescription>
+      <systemManufacturer>Microsoft</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>1 de Janeiro de 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computador</systemHardwareType>
+      <systemColor>32a8ec</systemColor>
+   </variables>
+</theme>
