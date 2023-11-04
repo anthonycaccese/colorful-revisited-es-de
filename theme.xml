@@ -90,6 +90,12 @@ license:       creative commons CC-BY-NC-SA
          <fastScrolling>true</fastScrolling>
          <color>00000000</color>
       </carousel>
+      <!--<video name="system-video">
+         <path>./_inc/systems/videos/${system.theme}.mp4</path>
+         <defaultImage>${spacerImage}</defaultImage>
+         <delay>6</delay>
+         <zIndex>100</zIndex>
+      </video>-->
       <text name="system-label">
          <fontPath>${fontLight}</fontPath>
          <fontSize>0.040740740740741</fontSize><!-- 44 -->
@@ -362,6 +368,10 @@ license:       creative commons CC-BY-NC-SA
             <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
             <itemSize>0.616666666666667 0.959259259259259</itemSize>
          </carousel>
+         <!--<video name="system-video">
+            <pos>0.371875 0.02037037037037</pos>
+            <cropSize>0.616666666666667 0.959259259259259</cropSize>
+         </video>-->
          <text name="system-label">
             <pos>0.052083333333333 0.196296296296296</pos><!-- 100 212 -->
          </text>
