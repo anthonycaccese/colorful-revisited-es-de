@@ -25,6 +25,7 @@ This is port of the Colorful theme (originally by [viking](https://forums.launch
 - M.U.G.E.N. sprites originally created by [mpadillathespriter](https://www.deviantart.com/mpadillathespriter)
 - EasyRPG artwork originally by [SeraphCircle](https://twitter.com/SeraphCircle)
 - Doom artwork originally by [azakachi-rd-17](https://www.deviantart.com/azakachi-rd-17)
+- Navigation sound effects were sourced from [SteamOS](https://store.steampowered.com/steamos)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
