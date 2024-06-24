@@ -146,7 +146,7 @@ based on 1728x1080
 			</image>
 			<image name="game-cover">
 				<pos>0.4171875 0.5</pos><!-- 801 540 -->
-				<maxSize>0.342708333 0.8</maxSize><!-- 658 864 -->
+				<maxSize>0.342708333 0.75</maxSize><!-- 658 864 -->
 			</image>
 			<text name="game-genre">
 				<pos>0.61145833 0.0666666666</pos><!-- 1174 72 -->

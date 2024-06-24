@@ -399,7 +399,7 @@ license:       creative commons CC-BY-NC-SA
 				<selectedBackgroundCornerRadius>0.5</selectedBackgroundCornerRadius>
 				<fontPath>${fontBold}</fontPath>
 				<fontSize>0.025925925925926</fontSize><!-- 28 -->
-				<lineSpacing>2</lineSpacing>
+				<lineSpacing>1.75</lineSpacing>
 				<primaryColor>${gamelistTextlistColor}</primaryColor>
 				<secondaryColor>${gamelistTextlistColor}</secondaryColor>
 				<selectedColor>${systemColor}</selectedColor>
@@ -446,7 +446,7 @@ license:       creative commons CC-BY-NC-SA
 				<filledPath>./_inc/images/icon-star-filled.svg</filledPath>
 				<unfilledPath>./_inc/images/icon-star-unfilled.svg</unfilledPath>
 				<overlay>false</overlay>
-				<color>${systemColor}</color>
+				<color>${gamelistMetadataColor}</color>
 			</rating>
 			<badges name="badges">
 				<itemMargin>0.002 -1</itemMargin>
@@ -462,7 +462,7 @@ license:       creative commons CC-BY-NC-SA
 				<customBadgeIcon badge="controller">./_inc/images/badge-controller.svg</customBadgeIcon>
 				<customBadgeIcon badge="altemulator">./_inc/images/badge-altemulator.svg</customBadgeIcon>
 				<customBadgeIcon badge="manual">./_inc/images/badge-manual.svg</customBadgeIcon>
-				<badgeIconColor>${systemColor}FF</badgeIconColor>
+				<badgeIconColor>${gamelistMetadataColor}FF</badgeIconColor>
 				<controllerSize>0.8</controllerSize>
 				<folderLinkSize>0.8</folderLinkSize>
 			</badges>
