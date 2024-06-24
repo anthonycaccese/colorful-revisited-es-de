@@ -474,7 +474,7 @@ license:       creative commons CC-BY-NC-SA
 				<fontSize>0.025925925925926</fontSize><!-- 28 -->
 				<lineSpacing>1</lineSpacing>
 				<format>%Y</format>
-				<defaultValue>--</defaultValue>
+				<defaultValue>:space:</defaultValue>
 				<color>${systemColor}</color>
 			</datetime>
 			<text name="game-description">
@@ -508,7 +508,7 @@ license:       creative commons CC-BY-NC-SA
 				<fontPath>${fontBold}</fontPath>
 				<fontSize>0.025925925925926</fontSize><!-- 28 -->
 				<metadata>developer</metadata>
-				<defaultValue>--</defaultValue>
+				<defaultValue>:space:</defaultValue>
 				<color>${gamelistMetadataColor}</color>
 		  </text>
 			<video name="game-art">
