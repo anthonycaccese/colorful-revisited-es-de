@@ -1,0 +1,199 @@
+<!-- 
+16:9 aspect ratio
+based on 1920x1080
+-->
+<theme>
+
+	<view name="system">
+        <image name="system-carousel-background">
+			<pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+        </image>
+        <carousel name="system-carousel">
+            <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+            <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+            <itemSize>0.616666666666667 0.959259259259259</itemSize>
+        </carousel>
+        <!--<video name="system-video">
+            <pos>0.371875 0.02037037037037</pos>
+            <cropSize>0.616666666666667 0.959259259259259</cropSize>
+        </video>-->
+        <text name="system-label">
+			<pos>0.052083333333333 0.196296296296296</pos><!-- 100 212 -->
+        </text>
+        <text name="system-name">
+            <pos>0.052083333333333 0.255555555555556</pos><!-- 100 276 -->
+            <size>0.26875 0</size><!-- 516 y -->
+        </text>
+        <text name="system-description">
+            <pos>0.052083333333333 0.481481481481481</pos><!-- 100 520 -->
+            <size>0.26875 0.17962962962963</size><!-- 516 194 -->
+        </text>
+        <image name="system-stats-border">
+            <pos>0.052083333333333 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.003125 0.161111111111111</size><!-- 6 174 -->
+        </image>
+        <image name="system-stats-background">
+            <pos>0.052083333333333 0.703703703703704</pos><!-- 100 760 -->
+            <size>0.26875 0.161111111111111</size><!-- 516 174 -->
+        </image>
+        <text name="system-game-count">
+            <pos>0.120833333333333 0.768518518518519</pos><!-- 232 830 -->
+        </text>
+        <text name="system-game-count-label">
+            <pos>0.120833333333333 0.824074074074074</pos><!-- 232 890 -->
+        </text>
+        <text name="system-favorites-count">
+			<pos>0.2546875 0.768518518518519</pos><!-- 486 830 -->
+        </text>
+        <text name="system-favorites-count-label">
+			<pos>0.2546875 0.824074074074074</pos><!-- 486 890 -->
+        </text>
+        <helpsystem name="help">
+            <pos>0.052083333333333 0.916666666666667</pos><!-- 100 990 -->
+        </helpsystem>
+	</view>
+	
+	<variant name="carousel">
+		<view name="gamelist">
+			<carousel name="game-carousel">
+				<pos>0.360416666666667 0.5</pos><!-- 692 50% -->
+				<size>0.3 0.959259259259259</size><!-- 576 1036 -->
+				<itemSize>0.3 0.5</itemSize><!-- 576 50% -->
+			</carousel>
+			<text name="system-name,auto-collection-name">
+				<pos>0.052083333333333 0.092592592592593</pos><!-- 100 100 -->
+			</text>
+			<image name="game-art-background">
+				<pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+				<size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
+			</image>
+			<video name="game-art">
+				<pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
+				<cropSize>0.616666666666667 0.959259259259259</cropSize><!-- 1184 1036 -->
+			</video>
+			<badges name="badges">
+				<pos>0.052083333333333 0.142592592592593</pos><!-- 100 154 -->
+				<size>0.26875 0.018518518518519</size><!-- 516 20 -->
+			</badges>
+			<text name="game-genre">
+				<pos>0.052083333333333 0.187037037037037</pos><!-- 100 202 -->
+			</text>
+			<text name="game-name">
+				<pos>0.052083333333333 0.227777777777778</pos><!-- 100 246 -->
+				<size>0.26875 0.17962962962963</size><!-- 516 194 -->
+			</text>
+			<text name="game-description">
+				<pos>0.052083333333333 0.425925925925926</pos><!-- 100 460 -->
+				<size>0.26875 0.17962962962963</size><!-- 516 194 -->
+			</text>
+			<image name="game-stats-border">
+				<pos>0.052083333333333 0.62962962962963</pos><!-- 100 680 -->
+				<size>0.003125 0.277777777777778</size><!-- 6 300 -->
+			</image>
+			<image name="game-stats-background">
+				<pos>0.052083333333333 0.62962962962963</pos><!-- 100 680 -->
+				<size>0.26875 0.277777777777778</size><!-- 516 300 -->
+			</image>
+			<text name="game-rating-label">
+				<pos>0.120833333333333 0.648148148148148</pos><!-- 232 700 -->
+			</text>
+			<rating name="rating">
+				<pos>0.120833333333333 0.685185185185185</pos><!-- 232 740 -->
+			</rating>
+			<text name="game-play-count-label">
+				<pos>0.2546875 0.648148148148148</pos><!-- 486 700 -->
+			</text>
+			<text name="game-play-count">
+				<pos>0.2546875 0.685185185185185</pos><!-- 486 740 -->
+			</text>
+			<text name="game-release-date-label">
+				<pos>0.120833333333333 0.740740740740741</pos><!-- 232 800 -->
+			</text>
+			<datetime name="game-release-date">
+				<pos>0.120833333333333 0.777777777777778</pos><!-- 232 840 -->
+			</datetime>
+			<text name="game-players-label">
+				<pos>0.2546875 0.740740740740741</pos><!-- 486 800 -->
+			</text>
+			<text name="game-players">
+				<pos>0.2546875 0.777777777777778</pos><!-- 486 840 -->
+			</text>
+			<text name="game-developer-label">
+				<pos>0.120833333333333 0.833333333333333</pos><!-- 232 900 -->
+			</text>
+			<text name="game-developer">
+				<pos>0.120833333333333 0.87037037037037</pos><!-- 232 940 -->
+			</text>
+			<text name="game-publisher-label">
+				<pos>0.2546875 0.833333333333333</pos><!-- 486 900 -->
+			</text>
+			<text name="game-publisher">
+				<pos>0.2546875 0.87037037037037</pos><!-- 486 940 -->
+			</text>
+		</view>
+	</variant>
+	
+	<variant name="gametextlist">
+		<view name="gamelist">
+			<image name="system-logo">
+				<pos>0.02291666 0.110648148</pos><!-- 44 119.5 -->
+				<maxSize>0.2 0.139814814814</maxSize><!-- 384 151 -->
+			</image>
+			<textlist name="game-textlist">
+				<pos>0.02291666 0.221296</pos> <!-- 44 239 -->
+				<size>0.2 0.69629629</size> <!-- 384 752 -->
+			</textlist>
+			<image name="game-art-background">
+				<pos>0.011458333333333333 0.02037037037037</pos><!-- 22 22 -->
+				<size>0.58854166667 0.959259259259259</size><!-- 1130 1036 -->
+			</image>
+			<image name="game-cover">
+				<pos>0.4171875 0.5</pos><!-- 801 540 -->
+				<maxSize>0.342708333 0.8</maxSize><!-- 658 864 -->
+			</image>
+			<text name="game-genre">
+				<pos>0.61145833 0.0666666666</pos><!-- 1174 72 -->
+                <size>0.37708333 0.02962962</size><!-- 724 32 -->
+			</text>
+			<text name="game-name">
+				<pos>0.61145833 0.10277</pos><!-- 1174 111 -->
+				<size>0.37708333 0.12962962</size><!-- 724 140 -->
+			</text>
+			<rating name="rating">
+				<pos>0.61145833 0.2425925</pos><!-- 1174 262 -->
+				<size>0 0.018518518518519</size><!-- x 20 -->
+			</rating>
+			<badges name="badges">
+				<pos>0.6770833 0.2379629</pos> <!-- 1300 257 -->
+				<size>0.259375 0.018518518518519</size><!-- 498 20 -->
+			</badges>
+			<datetime name="game-release-date">
+				<pos>0.883333 0.2425925</pos><!-- 1696 262 -->
+			</datetime>
+			<text name="game-description">
+				<pos>0.61145833 0.2898148</pos><!-- 1174 313 -->
+				<size>0.26041666 0.275</size><!-- 500 297 -->
+			</text>
+			<text name="game-players-label">
+				<pos>0.883333 0.2898148</pos><!-- 1696 313 -->
+			</text>
+			<text name="game-players">
+				<pos>0.9395833 0.2898148</pos><!-- 1804 313 -->
+				<size>0 0</size>
+			</text>
+			<text name="game-developer">
+				<pos>0.883333 0.337037</pos><!-- 1696 364 -->
+				<size>0.10520833 0.07962962</size><!-- 202 86 -->
+			</text>
+			<video name="game-art">
+				<pos>0.61145833 0.5648148</pos><!-- 1174 610 -->
+				<cropSize>0.37708333 0.4148148</cropSize><!-- 724 448-->
+			</video>
+			<helpsystem name="help">
+				<pos>1 1</pos>
+			</helpsystem>
+		</view>
+	</variant>
+	
+</theme>
