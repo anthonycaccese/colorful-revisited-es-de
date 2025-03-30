@@ -64,13 +64,36 @@ license:       creative commons CC-BY-NC-SA
          <color>${backgroundColor}</color>
          <zIndex>0</zIndex>
       </image>
-      <helpsystem name="help">
-         <originDimmed>0.5 0</originDimmed>
-         <posDimmed>0.5 0.94</posDimmed>
-         <textColorDimmed>cccccc</textColorDimmed>
-         <iconColorDimmed>cccccc</iconColorDimmed>
-         <fontSizeDimmed>0.026</fontSizeDimmed>
-         <opacityDimmed>1.0</opacityDimmed>
+      <clock name="clock">
+         <opacity>0</opacity>
+      </clock>
+      <systemstatus name="system-status">
+         <origin>1 0</origin>
+         <fontPath>${fontLight}</fontPath>
+         <height>0.03333333</height><!-- 36 -->
+         <textRelativeScale>0.7</textRelativeScale>
+         <color>${metadataColor}</color>
+         <backgroundColor>${backgroundColor}</backgroundColor>
+         <backgroundVerticalPadding>0.01111111 0.01111111</backgroundVerticalPadding><!-- 12 12 -->
+         <customIcon icon="icon_bluetooth">./_inc/images/icon-bluetooth.svg</customIcon>
+         <customIcon icon="icon_wifi">./_inc/images/icon-wifi.svg</customIcon>
+         <customIcon icon="icon_cellular">./_inc/images/icon-cellular.svg</customIcon>
+         <customIcon icon="icon_battery_charging">./_inc/images/icon-battery-charging.svg</customIcon>
+         <customIcon icon="icon_battery_full">./_inc/images/icon-battery-full.svg</customIcon>
+         <customIcon icon="icon_battery_high">./_inc/images/icon-battery-high.svg</customIcon>
+         <customIcon icon="icon_battery_medium">./_inc/images/icon-battery-medium.svg</customIcon>
+         <customIcon icon="icon_battery_low">./_inc/images/icon-battery-low.svg</customIcon>
+      </systemstatus>
+      <helpsystem name="help-menu-view">
+         <scope>menu</scope>
+         <origin>0.5 0.5</origin>
+         <pos>0.5 0.95</pos>
+         <iconColor>cccccc</iconColor>
+         <textColor>cccccc</textColor>
+         <backgroundColor>181818</backgroundColor>
+         <backgroundHorizontalPadding>0.05 0.05</backgroundHorizontalPadding>
+         <backgroundVerticalPadding>0.05 0.05</backgroundVerticalPadding>
+         <backgroundCornerRadius>0.005</backgroundCornerRadius>
       </helpsystem>
    </view>
 
@@ -90,12 +113,6 @@ license:       creative commons CC-BY-NC-SA
          <fastScrolling>true</fastScrolling>
          <color>00000000</color>
       </carousel>
-      <!--<video name="system-video">
-         <path>./_inc/systems/videos/${system.theme}.mp4</path>
-         <defaultImage>${spacerImage}</defaultImage>
-         <delay>6</delay>
-         <zIndex>100</zIndex>
-      </video>-->
       <text name="system-label">
          <fontPath>${fontLight}</fontPath>
          <fontSize>0.040740740740741</fontSize><!-- 44 -->
@@ -164,11 +181,12 @@ license:       creative commons CC-BY-NC-SA
          <color>${metadataLabelColor}</color>
       </text>
       <helpsystem name="help">
+         <scope>view</scope>
          <fontPath>${fontLight}</fontPath>
-         <fontSize>0.02037037037037</fontSize><!-- 22 -->
+         <fontSize>0.03888889</fontSize><!-- 42 -->
+         <entryRelativeScale>.75</entryRelativeScale>
          <letterCase>capitalize</letterCase>
-         <iconColor>a1a1a1</iconColor>
-         <textColor>818181</textColor>
+         <entries>start,a,up/down</entries>
       </helpsystem>
    </view>
 
@@ -358,6 +376,12 @@ license:       creative commons CC-BY-NC-SA
    </view>
 
    <aspectRatio name="16:9">
+      <view name="system,gamelist">
+         <systemstatus name="system-status">
+            <pos>0.98229167 0.03148148</pos><!-- 1886 34 -->
+            <backgroundHorizontalPadding>0.00625 0.00625</backgroundHorizontalPadding><!-- 12 -->
+         </systemstatus>
+      </view>
       <view name="system">
          <image name="system-carousel-background">
             <pos>0.371875 0.02037037037037</pos><!-- 714 22 -->
@@ -368,10 +392,6 @@ license:       creative commons CC-BY-NC-SA
             <size>0.616666666666667 0.959259259259259</size><!-- 1184 1036 -->
             <itemSize>0.616666666666667 0.959259259259259</itemSize>
          </carousel>
-         <!--<video name="system-video">
-            <pos>0.371875 0.02037037037037</pos>
-            <cropSize>0.616666666666667 0.959259259259259</cropSize>
-         </video>-->
          <text name="system-label">
             <pos>0.052083333333333 0.196296296296296</pos><!-- 100 212 -->
          </text>
@@ -486,6 +506,12 @@ license:       creative commons CC-BY-NC-SA
       </view>
    </aspectRatio>
    <aspectRatio name="16:10">
+      <view name="system,gamelist">
+         <systemstatus name="system-status">
+            <pos>0.98090278 0.03148148</pos><!-- 1694 34 -->
+            <backgroundHorizontalPadding>0.00694444 0.00694444</backgroundHorizontalPadding><!-- 12 -->
+         </systemstatus>
+      </view>
       <view name="system">
          <image name="system-carousel-background">
             <pos>0.413194444444444 0.02037037037037</pos><!-- 714 22 -->
